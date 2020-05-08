@@ -1,0 +1,2564 @@
+{
+  "BB-norm-8559802.a1": [], 
+  "BB-norm-F-20167385-006.a1": [
+    [
+      "T2", 
+      "160 Taleggio cheeses"
+    ], 
+    [
+      "T3", 
+      "Scimudin cheeses"
+    ], 
+    [
+      "T4", 
+      "Gorgonzola cheese"
+    ], 
+    [
+      "T5", 
+      "344 Taleggio cheeses"
+    ], 
+    [
+      "T6", 
+      "Casera cheeses"
+    ], 
+    [
+      "T7", 
+      "Scimudin"
+    ], 
+    [
+      "T8", 
+      "Gorgonzola"
+    ], 
+    [
+      "T9", 
+      "Taleggio"
+    ], 
+    [
+      "T10", 
+      "Scimudin cheeses"
+    ], 
+    [
+      "T12", 
+      "704 Taleggio cheeses"
+    ], 
+    [
+      "T13", 
+      "704 Scimudin cheeses"
+    ], 
+    [
+      "T14", 
+      "704 Casera cheeses"
+    ], 
+    [
+      "T15", 
+      "704 Gorgonzola cheeses"
+    ], 
+    [
+      "T16", 
+      "Gorgonzola"
+    ], 
+    [
+      "T17", 
+      "Scimudin"
+    ], 
+    [
+      "T18", 
+      "Taleggio"
+    ]
+  ], 
+  "BB-norm-21894542.a1": [
+    [
+      "T9", 
+      "world's oceans"
+    ], 
+    [
+      "T10", 
+      "marine environments"
+    ], 
+    [
+      "T11", 
+      "bacterial flora"
+    ], 
+    [
+      "T12", 
+      "marine"
+    ], 
+    [
+      "T13", 
+      "marine organisms"
+    ]
+  ], 
+  "BB-norm-20580604.a1": [
+    [
+      "T3", 
+      "probiotic fermented milk beverage"
+    ], 
+    [
+      "T5", 
+      "intestinal"
+    ], 
+    [
+      "T6", 
+      "intestinal microbiota"
+    ], 
+    [
+      "T7", 
+      "intestinal environment of healthy individuals with soft stools"
+    ], 
+    [
+      "T8", 
+      "healthy individuals with soft stools"
+    ], 
+    [
+      "T9", 
+      "soft stools"
+    ], 
+    [
+      "T10", 
+      "fermented milk beverage"
+    ], 
+    [
+      "T13", 
+      "bottle"
+    ], 
+    [
+      "T14", 
+      "probiotics"
+    ], 
+    [
+      "T15", 
+      "bottle"
+    ], 
+    [
+      "T16", 
+      "intestinal microbiota"
+    ], 
+    [
+      "T17", 
+      "intestinal"
+    ], 
+    [
+      "T18", 
+      "intestinal environment of healthy individuals with soft stools"
+    ], 
+    [
+      "T19", 
+      "healthy individuals with soft stools"
+    ], 
+    [
+      "T20", 
+      "soft stools"
+    ], 
+    [
+      "T21", 
+      "healthy adults"
+    ], 
+    [
+      "T22", 
+      "soft stools"
+    ], 
+    [
+      "T23", 
+      "probiotics"
+    ], 
+    [
+      "T24", 
+      "probiotic"
+    ], 
+    [
+      "T25", 
+      "stool"
+    ], 
+    [
+      "T26", 
+      "water content of the stools"
+    ], 
+    [
+      "T27", 
+      "stools"
+    ], 
+    [
+      "T28", 
+      "probiotic"
+    ], 
+    [
+      "T29", 
+      "probiotic group"
+    ], 
+    [
+      "T30", 
+      "placebo group"
+    ], 
+    [
+      "T32", 
+      "stool"
+    ], 
+    [
+      "T33", 
+      "probiotic"
+    ], 
+    [
+      "T35", 
+      "stools"
+    ], 
+    [
+      "T36", 
+      "probiotics"
+    ], 
+    [
+      "T37", 
+      "1495 probiotic groups"
+    ], 
+    [
+      "T38", 
+      "probiotic"
+    ], 
+    [
+      "T39", 
+      "placebo groups"
+    ], 
+    [
+      "T40", 
+      "probiotic fermented milk beverage"
+    ], 
+    [
+      "T41", 
+      "intestine"
+    ], 
+    [
+      "T42", 
+      "stool"
+    ], 
+    [
+      "T44", 
+      "healthy individuals with soft stool"
+    ], 
+    [
+      "T45", 
+      "soft stool"
+    ]
+  ], 
+  "BB-norm-F-20167385-004.a1": [
+    [
+      "T1", 
+      "community of Staphylococcus and micrococci-corynebacteria groups"
+    ], 
+    [
+      "T5", 
+      "cheese"
+    ], 
+    [
+      "T6", 
+      "cheese surfaces"
+    ], 
+    [
+      "T8", 
+      "Formaggio di Fossa"
+    ], 
+    [
+      "T10", 
+      "Enterococcus selective agar"
+    ], 
+    [
+      "T12", 
+      "SB"
+    ], 
+    [
+      "T13", 
+      "380 Casera cheeses"
+    ], 
+    [
+      "T14", 
+      "380 Taleggio cheeses"
+    ], 
+    [
+      "T15", 
+      "380 Gorgonzola cheeses"
+    ], 
+    [
+      "T16", 
+      "Scimudin cheeses"
+    ], 
+    [
+      "T18", 
+      "Rogosa agar"
+    ], 
+    [
+      "T19", 
+      "cheese"
+    ], 
+    [
+      "T20", 
+      "cheese surfaces"
+    ], 
+    [
+      "T21", 
+      "Pseudomonas agar"
+    ], 
+    [
+      "T23", 
+      "582 Gorgonzola surfaces"
+    ], 
+    [
+      "T24", 
+      "Gorgonzola"
+    ], 
+    [
+      "T25", 
+      "582 Scimudin surfaces"
+    ], 
+    [
+      "T26", 
+      "Scimudin"
+    ], 
+    [
+      "T27", 
+      "Taleggio"
+    ], 
+    [
+      "T28", 
+      "Taleggio surfaces"
+    ], 
+    [
+      "T29", 
+      "Casera"
+    ], 
+    [
+      "T31", 
+      "Formaggio di Fossa"
+    ], 
+    [
+      "T32", 
+      "cheese"
+    ], 
+    [
+      "T33", 
+      "cheese surfaces"
+    ]
+  ], 
+  "BB-norm-19552770.a1": [
+    [
+      "T8", 
+      "partridges"
+    ], 
+    [
+      "T9", 
+      "Perdix perdix"
+    ], 
+    [
+      "T12", 
+      "commercially reared partridges"
+    ], 
+    [
+      "T13", 
+      "Perdix perdix"
+    ], 
+    [
+      "T14", 
+      "Cloacal swabs of partridges"
+    ], 
+    [
+      "T15", 
+      "Cloacal"
+    ], 
+    [
+      "T16", 
+      "partridges"
+    ], 
+    [
+      "T17", 
+      "295 male birds"
+    ], 
+    [
+      "T18", 
+      "female birds"
+    ], 
+    [
+      "T19", 
+      "game bird"
+    ], 
+    [
+      "T20", 
+      "game bird farm"
+    ], 
+    [
+      "T27", 
+      "cloacal swabs"
+    ], 
+    [
+      "T31", 
+      "Adult partridges"
+    ], 
+    [
+      "T32", 
+      "younger ones"
+    ], 
+    [
+      "T33", 
+      "game birds"
+    ], 
+    [
+      "T35", 
+      "human being"
+    ], 
+    [
+      "T36", 
+      "animal species"
+    ], 
+    [
+      "T38", 
+      "commercially reared partridges"
+    ]
+  ], 
+  "BB-norm-10496597.a1": [
+    [
+      "T3", 
+      "gastric"
+    ], 
+    [
+      "T4", 
+      "gastric mucosa"
+    ], 
+    [
+      "T5", 
+      "gastric mucosal-associated lymphoid tissue"
+    ], 
+    [
+      "T6", 
+      "gastric mucosal"
+    ], 
+    [
+      "T7", 
+      "gastric"
+    ], 
+    [
+      "T8", 
+      "MALT"
+    ], 
+    [
+      "T9", 
+      "monoclonal B cells"
+    ], 
+    [
+      "T11", 
+      "gastric"
+    ], 
+    [
+      "T12", 
+      "gastric MALT"
+    ], 
+    [
+      "T13", 
+      "724 patients with atypical lymphoid infiltrates"
+    ], 
+    [
+      "T14", 
+      "685 patients with low-grade MALT lymphoma"
+    ], 
+    [
+      "T15", 
+      "782 patients with Helicobacter pylori-chronic active gastritis"
+    ], 
+    [
+      "T16", 
+      "patients with high-grade primary gastric lymphoma"
+    ], 
+    [
+      "T17", 
+      "gastric"
+    ], 
+    [
+      "T18", 
+      "MALT"
+    ], 
+    [
+      "T20", 
+      "CD20"
+    ], 
+    [
+      "T21", 
+      "CD3"
+    ], 
+    [
+      "T22", 
+      "MALT"
+    ], 
+    [
+      "T23", 
+      "patients with chronic active gastritis"
+    ], 
+    [
+      "T24", 
+      "CD20-positive cells"
+    ], 
+    [
+      "T25", 
+      "lymphocytic"
+    ], 
+    [
+      "T26", 
+      "1445 B cells"
+    ], 
+    [
+      "T27", 
+      "T cells"
+    ], 
+    [
+      "T28", 
+      "lymphocytic"
+    ], 
+    [
+      "T29", 
+      "Lymphoepithelial"
+    ], 
+    [
+      "T30", 
+      "Lymphoepithelial lesions"
+    ], 
+    [
+      "T31", 
+      "gastric"
+    ], 
+    [
+      "T32", 
+      "gastric biopsies"
+    ], 
+    [
+      "T33", 
+      "monoclonal B cells"
+    ], 
+    [
+      "T35", 
+      "CD20"
+    ], 
+    [
+      "T36", 
+      "CD3"
+    ], 
+    [
+      "T37", 
+      "gastric MALT"
+    ], 
+    [
+      "T38", 
+      "gastric"
+    ]
+  ], 
+  "BB-norm-F-25036636-002.a1": [
+    [
+      "T1", 
+      "marine"
+    ], 
+    [
+      "T3", 
+      "cheese"
+    ]
+  ], 
+  "BB-norm-F-20167385-001.a1": [], 
+  "BB-norm-12109661.a1": [
+    [
+      "T4", 
+      "gastric"
+    ], 
+    [
+      "T5", 
+      "gastric"
+    ], 
+    [
+      "T8", 
+      "gastric"
+    ], 
+    [
+      "T10", 
+      "H. pylori-positive subjects"
+    ], 
+    [
+      "T12", 
+      "H. pylori-negative subjects"
+    ], 
+    [
+      "T13", 
+      "gastric"
+    ], 
+    [
+      "T14", 
+      "gastric mucosa"
+    ], 
+    [
+      "T16", 
+      "H. pylori-infected monkeys"
+    ], 
+    [
+      "T17", 
+      "control monkeys"
+    ], 
+    [
+      "T19", 
+      "children"
+    ], 
+    [
+      "T20", 
+      "gastric mucosa"
+    ], 
+    [
+      "T21", 
+      "gastric"
+    ], 
+    [
+      "T23", 
+      "gastric"
+    ], 
+    [
+      "T24", 
+      "gastric"
+    ], 
+    [
+      "T26", 
+      "patients with chronic gastritis"
+    ], 
+    [
+      "T27", 
+      "1015 patients with gastric cancer"
+    ], 
+    [
+      "T28", 
+      "gastric"
+    ], 
+    [
+      "T30", 
+      "young Japanese gastric cancer patients"
+    ], 
+    [
+      "T31", 
+      "gastric"
+    ], 
+    [
+      "T32", 
+      "control group"
+    ], 
+    [
+      "T34", 
+      "gastric"
+    ], 
+    [
+      "T35", 
+      "young Japanese people"
+    ], 
+    [
+      "T37", 
+      "gastric"
+    ], 
+    [
+      "T38", 
+      "gastric mucosa"
+    ], 
+    [
+      "T39", 
+      "gastric"
+    ]
+  ], 
+  "BB-norm-F-14624315-005.a1": [], 
+  "BB-norm-F-14624315-003.a1": [], 
+  "BB-norm-F-14624315-000.a1": [
+    [
+      "T1", 
+      "semi-hard cheeses"
+    ], 
+    [
+      "T2", 
+      "Gouda"
+    ], 
+    [
+      "T3", 
+      "Cheddar"
+    ], 
+    [
+      "T6", 
+      "dairy products"
+    ], 
+    [
+      "T8", 
+      "Maasdammer"
+    ], 
+    [
+      "T9", 
+      "Swiss-type cheeses"
+    ], 
+    [
+      "T13", 
+      "yoghurts"
+    ], 
+    [
+      "T17", 
+      "surface-ripened cheeses"
+    ]
+  ], 
+  "BB-norm-F-14624315-007.a1": [
+    [
+      "T3", 
+      "dairy industry"
+    ]
+  ], 
+  "BB-norm-F-20167385-013.a1": [
+    [
+      "T5", 
+      "cheese surface"
+    ], 
+    [
+      "T6", 
+      "cheese"
+    ]
+  ], 
+  "BB-norm-F-14624315-004.a1": [], 
+  "BB-norm-F-25036636-000.a1": [
+    [
+      "T1", 
+      "community"
+    ], 
+    [
+      "T2", 
+      "cheese"
+    ], 
+    [
+      "T5", 
+      "food"
+    ], 
+    [
+      "T11", 
+      "marine environments"
+    ], 
+    [
+      "T12", 
+      "cheese"
+    ], 
+    [
+      "T13", 
+      "cheese communities"
+    ]
+  ], 
+  "BB-norm-F-20167385-011.a1": [
+    [
+      "T4", 
+      "cheese"
+    ], 
+    [
+      "T5", 
+      "cheese surface"
+    ], 
+    [
+      "T7", 
+      "Fontina cheese surface"
+    ], 
+    [
+      "T8", 
+      "Fontina cheese"
+    ], 
+    [
+      "T11", 
+      "Gorgonzola"
+    ], 
+    [
+      "T12", 
+      "Gorgonzola rind"
+    ], 
+    [
+      "T14", 
+      "Taleggio"
+    ], 
+    [
+      "T15", 
+      "Taleggio rind"
+    ], 
+    [
+      "T17", 
+      "561 surface of Gorgonzola cheeses"
+    ], 
+    [
+      "T18", 
+      "561 surface of Scimudin cheeses"
+    ], 
+    [
+      "T19", 
+      "561 Gorgonzola cheeses"
+    ], 
+    [
+      "T20", 
+      "Scimudin cheeses"
+    ], 
+    [
+      "T21", 
+      "Formaggio di Fossa cheese"
+    ], 
+    [
+      "T26", 
+      "fermented fish"
+    ], 
+    [
+      "T27", 
+      "Greek cheese"
+    ], 
+    [
+      "T29", 
+      "1034 Scimudin surfaces"
+    ], 
+    [
+      "T30", 
+      "Scimudin"
+    ], 
+    [
+      "T31", 
+      "Gorgonzola"
+    ], 
+    [
+      "T32", 
+      "1034 Gorgonzola surfaces"
+    ], 
+    [
+      "T33", 
+      "Fontina"
+    ], 
+    [
+      "T34", 
+      "Fontina rind"
+    ], 
+    [
+      "T36", 
+      "Gorgonzola"
+    ], 
+    [
+      "T37", 
+      "Gorgonzola rinds"
+    ]
+  ], 
+  "BB-norm-F-20167385-009.a1": [
+    [
+      "T2", 
+      "76 Casera cheese"
+    ], 
+    [
+      "T3", 
+      "86 Casera cheese surfaces"
+    ], 
+    [
+      "T4", 
+      "86 Gorgonzola cheese surfaces"
+    ], 
+    [
+      "T5", 
+      "76 Gorgonzola cheese"
+    ], 
+    [
+      "T6", 
+      "Scimudin cheese"
+    ], 
+    [
+      "T7", 
+      "Scimudin cheese surfaces"
+    ], 
+    [
+      "T8", 
+      "smear cheeses"
+    ]
+  ], 
+  "BB-norm-F-25036636-004.a1": [
+    [
+      "T2", 
+      "cheeses"
+    ], 
+    [
+      "T4", 
+      "cheese"
+    ], 
+    [
+      "T5", 
+      "cheese rind"
+    ]
+  ], 
+  "BB-norm-F-14624315-006.a1": [], 
+  "BB-norm-15618837.a1": [
+    [
+      "T8", 
+      "dyspeptic patients"
+    ], 
+    [
+      "T9", 
+      "patients with chronic dyspepsia"
+    ], 
+    [
+      "T10", 
+      "clinic"
+    ], 
+    [
+      "T11", 
+      "Gastric biopsies"
+    ], 
+    [
+      "T12", 
+      "Gastric"
+    ], 
+    [
+      "T14", 
+      "Patients with H. pylori infection"
+    ], 
+    [
+      "T21", 
+      "dyspeptic patients"
+    ]
+  ], 
+  "BB-norm-351567.a1": [
+    [
+      "T7", 
+      "cellophane membrane disks"
+    ]
+  ], 
+  "BB-norm-9745160.a1": [
+    [
+      "T6", 
+      "duodenal"
+    ], 
+    [
+      "T7", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T9", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T10", 
+      "duodenal"
+    ], 
+    [
+      "T13", 
+      "patient"
+    ], 
+    [
+      "T14", 
+      "patients with active duodenal ulcer disease and H pylori infection"
+    ], 
+    [
+      "T15", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T16", 
+      "duodenal"
+    ], 
+    [
+      "T21", 
+      "ulcer"
+    ], 
+    [
+      "T22", 
+      "patients"
+    ], 
+    [
+      "T23", 
+      "patients"
+    ], 
+    [
+      "T26", 
+      "ulcer"
+    ], 
+    [
+      "T27", 
+      "patients"
+    ], 
+    [
+      "T28", 
+      "patients with PPI-based triple therapy"
+    ], 
+    [
+      "T29", 
+      "patients with bismuth-based triple therapy"
+    ], 
+    [
+      "T30", 
+      "patients"
+    ], 
+    [
+      "T32", 
+      "duodenal"
+    ], 
+    [
+      "T33", 
+      "duodenal ulcer"
+    ]
+  ], 
+  "BB-norm-21543877.a1": [
+    [
+      "T4", 
+      "human population"
+    ]
+  ], 
+  "BB-norm-F-20167385-000.a1": [
+    [
+      "T6", 
+      "surface of cheeses"
+    ], 
+    [
+      "T7", 
+      "cheeses"
+    ], 
+    [
+      "T8", 
+      "263 Gorgonzola cheeses"
+    ], 
+    [
+      "T9", 
+      "263 Taleggio cheeses"
+    ], 
+    [
+      "T10", 
+      "Formaggio di Fossa cheeses"
+    ], 
+    [
+      "T11", 
+      "Scimudin"
+    ], 
+    [
+      "T12", 
+      "Casera"
+    ]
+  ], 
+  "BB-norm-47483.a1": [
+    [
+      "T7", 
+      "clinical"
+    ]
+  ], 
+  "BB-norm-F-20167385-014.a1": [
+    [
+      "T2", 
+      "surface of Formaggio di Fossa cheese"
+    ], 
+    [
+      "T3", 
+      "Formaggio di Fossa cheese"
+    ]
+  ], 
+  "BB-norm-18694716.a1": [
+    [
+      "T3", 
+      "LTQ Orbitrap high-resolution mass spectrometer"
+    ], 
+    [
+      "T4", 
+      "mixtures of pure compounds and uniformly 13C-labeled cell extracts"
+    ], 
+    [
+      "T5", 
+      "13C-labeled cell"
+    ], 
+    [
+      "T7", 
+      "LTQ Obitrap"
+    ]
+  ], 
+  "BB-norm-15293611.a1": [
+    [
+      "T4", 
+      "86 paediatric cystic fibrosis units"
+    ], 
+    [
+      "T5", 
+      "paediatric"
+    ], 
+    [
+      "T6", 
+      "adult cystic fibrosis units"
+    ], 
+    [
+      "T7", 
+      "adult"
+    ], 
+    [
+      "T9", 
+      "cystic fibrosis (CF) units"
+    ], 
+    [
+      "T10", 
+      "Sputum"
+    ], 
+    [
+      "T11", 
+      "productive patients"
+    ], 
+    [
+      "T12", 
+      "369 regional adult CF units"
+    ], 
+    [
+      "T13", 
+      "369 regional paediatric CF units"
+    ], 
+    [
+      "T14", 
+      "paediatric"
+    ], 
+    [
+      "T15", 
+      "adult"
+    ], 
+    [
+      "T18", 
+      "sputum"
+    ], 
+    [
+      "T19", 
+      "patients"
+    ], 
+    [
+      "T20", 
+      "clinic"
+    ], 
+    [
+      "T22", 
+      "patients"
+    ], 
+    [
+      "T23", 
+      "patients"
+    ], 
+    [
+      "T24", 
+      "patient"
+    ], 
+    [
+      "T25", 
+      "patients"
+    ], 
+    [
+      "T26", 
+      "patients"
+    ], 
+    [
+      "T27", 
+      "patients"
+    ], 
+    [
+      "T28", 
+      "lung"
+    ], 
+    [
+      "T30", 
+      "patients"
+    ]
+  ], 
+  "BB-norm-F-20167385-003.a1": [
+    [
+      "T2", 
+      "Formaggio di Fossa"
+    ], 
+    [
+      "T3", 
+      "Gorgonzola"
+    ], 
+    [
+      "T4", 
+      "Taleggio"
+    ], 
+    [
+      "T5", 
+      "Scimudin"
+    ], 
+    [
+      "T7", 
+      "cheese"
+    ], 
+    [
+      "T8", 
+      "Casera"
+    ], 
+    [
+      "T10", 
+      "Casera cheese"
+    ], 
+    [
+      "T12", 
+      "Scimudin"
+    ], 
+    [
+      "T14", 
+      "531 Casera cheeses"
+    ], 
+    [
+      "T15", 
+      "Gorgonzola cheeses"
+    ], 
+    [
+      "T17", 
+      "Casera"
+    ], 
+    [
+      "T18", 
+      "Formaggio di Fossa"
+    ], 
+    [
+      "T20", 
+      "Casera cheese"
+    ], 
+    [
+      "T21", 
+      "772 Formaggio di Fossa cheeses"
+    ], 
+    [
+      "T22", 
+      "Scimudin cheeses"
+    ], 
+    [
+      "T25", 
+      "Casera cheese"
+    ], 
+    [
+      "T26", 
+      "Casera cheese surface"
+    ]
+  ], 
+  "BB-norm-F-25036636-003.a1": [
+    [
+      "T1", 
+      "cheese"
+    ], 
+    [
+      "T4", 
+      "cheeses"
+    ], 
+    [
+      "T6", 
+      "cheeses"
+    ], 
+    [
+      "T11", 
+      "polar seawater"
+    ]
+  ], 
+  "BB-norm-19004249.a1": [
+    [
+      "T4", 
+      "human"
+    ]
+  ], 
+  "BB-norm-F-20167385-015.a1": [
+    [
+      "T3", 
+      "cheese"
+    ]
+  ], 
+  "BB-norm-5526468.a1": [
+    [
+      "T3", 
+      "human"
+    ]
+  ], 
+  "BB-norm-25114119.a1": [
+    [
+      "T8", 
+      "mice"
+    ], 
+    [
+      "T10", 
+      "SCID mice"
+    ], 
+    [
+      "T12", 
+      "aerosol"
+    ], 
+    [
+      "T13", 
+      "aerosolized"
+    ], 
+    [
+      "T17", 
+      "murine"
+    ], 
+    [
+      "T20", 
+      "mice"
+    ], 
+    [
+      "T24", 
+      "macrophages"
+    ], 
+    [
+      "T27", 
+      "human"
+    ], 
+    [
+      "T28", 
+      "human macrophages"
+    ]
+  ], 
+  "BB-norm-18789156.a1": [
+    [
+      "T6", 
+      "monocyte-like THP-1 cells"
+    ], 
+    [
+      "T9", 
+      "human"
+    ], 
+    [
+      "T11", 
+      "immune cells"
+    ], 
+    [
+      "T12", 
+      "monocytes"
+    ], 
+    [
+      "T13", 
+      "macrophages"
+    ], 
+    [
+      "T15", 
+      "cell"
+    ], 
+    [
+      "T20", 
+      "human"
+    ], 
+    [
+      "T21", 
+      "human monocyte-like THP-1 cells"
+    ], 
+    [
+      "T22", 
+      "monocyte-like THP-1 cells"
+    ], 
+    [
+      "T25", 
+      "monocyte-like THP-1 cells"
+    ], 
+    [
+      "T27", 
+      "murine"
+    ], 
+    [
+      "T31", 
+      "monocyte-like THP-1 cells"
+    ], 
+    [
+      "T32", 
+      "cell"
+    ], 
+    [
+      "T36", 
+      "host tissues"
+    ], 
+    [
+      "T38", 
+      "infected monocytes"
+    ], 
+    [
+      "T39", 
+      "human"
+    ], 
+    [
+      "T42", 
+      "monocyte-like THP-1 cells"
+    ]
+  ], 
+  "BB-norm-21270066.a1": [
+    [
+      "T3", 
+      "perianal"
+    ], 
+    [
+      "T4", 
+      "perianal ulceration"
+    ], 
+    [
+      "T5", 
+      "HIV-positive men who have sex with men"
+    ], 
+    [
+      "T7", 
+      "men"
+    ], 
+    [
+      "T8", 
+      "MSM"
+    ], 
+    [
+      "T9", 
+      "Patients"
+    ], 
+    [
+      "T10", 
+      "rectal"
+    ], 
+    [
+      "T11", 
+      "MSM attending sexually transmitted infection clinics"
+    ], 
+    [
+      "T12", 
+      "sexually transmitted infection clinics"
+    ], 
+    [
+      "T13", 
+      "anorectal"
+    ], 
+    [
+      "T14", 
+      "HIV-infected patients presenting with isolated perianal ulcer disease"
+    ], 
+    [
+      "T16", 
+      "perianal ulcer"
+    ], 
+    [
+      "T17", 
+      "perianal"
+    ], 
+    [
+      "T18", 
+      "rectal"
+    ], 
+    [
+      "T21", 
+      "MSM with proctitis"
+    ], 
+    [
+      "T22", 
+      "MSM with perianal ulcer disease"
+    ], 
+    [
+      "T23", 
+      "perianal"
+    ], 
+    [
+      "T24", 
+      "perianal ulcer"
+    ]
+  ], 
+  "BB-norm-F-20167385-002.a1": [
+    [
+      "T1", 
+      "soft smear cheeses"
+    ]
+  ], 
+  "BB-norm-F-20167385-012.a1": [], 
+  "BB-norm-19339076.a1": [
+    [
+      "T4", 
+      "Bile"
+    ], 
+    [
+      "T7", 
+      "Bile"
+    ], 
+    [
+      "T10", 
+      "bile"
+    ], 
+    [
+      "T13", 
+      "bile"
+    ], 
+    [
+      "T16", 
+      "bile"
+    ], 
+    [
+      "T17", 
+      "551 lactose-free M17 medium supplemented with glucose only (GM17)"
+    ], 
+    [
+      "T18", 
+      "574 lactose-free M17 medium supplemented with lactose only (LM17)"
+    ], 
+    [
+      "T20", 
+      "bile"
+    ], 
+    [
+      "T22", 
+      "bile"
+    ], 
+    [
+      "T24", 
+      "bile"
+    ], 
+    [
+      "T26", 
+      "GM17 medium"
+    ], 
+    [
+      "T28", 
+      "bile"
+    ], 
+    [
+      "T30", 
+      "bile"
+    ], 
+    [
+      "T31", 
+      "LM17 medium"
+    ], 
+    [
+      "T33", 
+      "bile"
+    ], 
+    [
+      "T35", 
+      "bile"
+    ], 
+    [
+      "T38", 
+      "bile"
+    ], 
+    [
+      "T40", 
+      "bile"
+    ], 
+    [
+      "T41", 
+      "GM17 medium"
+    ], 
+    [
+      "T43", 
+      "bile"
+    ], 
+    [
+      "T44", 
+      "LM17 medium"
+    ], 
+    [
+      "T46", 
+      "GM17 medium"
+    ], 
+    [
+      "T47", 
+      "LM17 medium"
+    ], 
+    [
+      "T49", 
+      "bile"
+    ], 
+    [
+      "T52", 
+      "bile"
+    ], 
+    [
+      "T54", 
+      "bile"
+    ]
+  ], 
+  "BB-norm-9553794.a1": [
+    [
+      "T4", 
+      "145 vacuum- packed cold-smoked salmon stored at 5 degrees C"
+    ], 
+    [
+      "T5", 
+      "modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C"
+    ], 
+    [
+      "T6", 
+      "microflora"
+    ], 
+    [
+      "T7", 
+      "spoiled cold-smoked salmon"
+    ], 
+    [
+      "T11", 
+      "vacuum-packed cold-smoked salmon"
+    ], 
+    [
+      "T12", 
+      "microflora"
+    ], 
+    [
+      "T14", 
+      "Gram-negative flora"
+    ], 
+    [
+      "T18", 
+      "vacuum packages"
+    ], 
+    [
+      "T19", 
+      "Gram-negative flora"
+    ], 
+    [
+      "T21", 
+      "vacuum-packed salmon"
+    ], 
+    [
+      "T29", 
+      "LAB microflora"
+    ], 
+    [
+      "T35", 
+      "cold-smoked salmon stored at 5 degrees C"
+    ], 
+    [
+      "T36", 
+      "salmon"
+    ]
+  ], 
+  "BB-norm-25204345.a1": [
+    [
+      "T9", 
+      "natural fermented koumiss"
+    ], 
+    [
+      "T10", 
+      "yoghurt"
+    ]
+  ], 
+  "BB-norm-16514151.a1": [
+    [
+      "T6", 
+      "rich medium"
+    ]
+  ], 
+  "BB-norm-F-14624315-001.a1": [], 
+  "BB-norm-14633026.a1": [
+    [
+      "T15", 
+      "Culex pipiens molestus"
+    ], 
+    [
+      "T21", 
+      "culicine mosquito"
+    ]
+  ], 
+  "BB-norm-3544198.a1": [
+    [
+      "T4", 
+      "urine of leprosy patients"
+    ], 
+    [
+      "T5", 
+      "leprosy patients"
+    ], 
+    [
+      "T7", 
+      "urine of leprosy patients"
+    ], 
+    [
+      "T8", 
+      "leprosy patients"
+    ], 
+    [
+      "T9", 
+      "urine"
+    ], 
+    [
+      "T10", 
+      "urine of LL patients"
+    ], 
+    [
+      "T11", 
+      "LL patients"
+    ], 
+    [
+      "T12", 
+      "nitrocellulose paper"
+    ], 
+    [
+      "T13", 
+      "urine of LL patients"
+    ], 
+    [
+      "T14", 
+      "LL patients"
+    ]
+  ], 
+  "BB-norm-9521147.a1": [
+    [
+      "T7", 
+      "clinical"
+    ], 
+    [
+      "T9", 
+      "clinical"
+    ], 
+    [
+      "T12", 
+      "sera from patients with different clinical spectra and with other infections"
+    ], 
+    [
+      "T13", 
+      "patients with different clinical spectra and with other infections"
+    ], 
+    [
+      "T16", 
+      "clinical"
+    ], 
+    [
+      "T18", 
+      "soil"
+    ], 
+    [
+      "T20", 
+      "soil"
+    ], 
+    [
+      "T21", 
+      "sera from patients with melioidosis"
+    ], 
+    [
+      "T22", 
+      "patients with melioidosis"
+    ], 
+    [
+      "T23", 
+      "hyperimmune mouse"
+    ], 
+    [
+      "T24", 
+      "hyperimmune mouse sera"
+    ], 
+    [
+      "T27", 
+      "microtiter plates"
+    ]
+  ], 
+  "BB-norm-19621381.a1": [], 
+  "BB-norm-1356998.a1": [
+    [
+      "T3", 
+      "Human"
+    ], 
+    [
+      "T4", 
+      "tick"
+    ], 
+    [
+      "T9", 
+      "ticks"
+    ], 
+    [
+      "T10", 
+      "humans"
+    ], 
+    [
+      "T11", 
+      "human"
+    ], 
+    [
+      "T12", 
+      "patients suffering from rickettsial disease of different degrees of severity"
+    ], 
+    [
+      "T17", 
+      "ticks"
+    ], 
+    [
+      "T18", 
+      "humans"
+    ]
+  ], 
+  "BB-norm-16458564.a1": [
+    [
+      "T6", 
+      "children"
+    ], 
+    [
+      "T7", 
+      "children less than five years of age"
+    ], 
+    [
+      "T8", 
+      "study population"
+    ], 
+    [
+      "T9", 
+      "children with diarrhea"
+    ], 
+    [
+      "T10", 
+      "age-matched healthy controls"
+    ], 
+    [
+      "T14", 
+      "children with diarrhea"
+    ], 
+    [
+      "T26", 
+      "children less than two years of age"
+    ], 
+    [
+      "T30", 
+      "older children"
+    ], 
+    [
+      "T37", 
+      "Children attending the hospitals"
+    ], 
+    [
+      "T38", 
+      "hospitals"
+    ], 
+    [
+      "T39", 
+      "Watery stool"
+    ], 
+    [
+      "T40", 
+      "mucous stool"
+    ], 
+    [
+      "T41", 
+      "mucous"
+    ], 
+    [
+      "T42", 
+      "stools"
+    ], 
+    [
+      "T43", 
+      "hospitals"
+    ], 
+    [
+      "T44", 
+      "children"
+    ], 
+    [
+      "T45", 
+      "children"
+    ], 
+    [
+      "T46", 
+      "piped water"
+    ], 
+    [
+      "T47", 
+      "latrine"
+    ], 
+    [
+      "T48", 
+      "mothers"
+    ], 
+    [
+      "T49", 
+      "children"
+    ], 
+    [
+      "T50", 
+      "mothers"
+    ], 
+    [
+      "T57", 
+      "children"
+    ], 
+    [
+      "T58", 
+      "fresh water"
+    ], 
+    [
+      "T59", 
+      "fresh water supply"
+    ], 
+    [
+      "T60", 
+      "unhygienic septic tank"
+    ], 
+    [
+      "T61", 
+      "children"
+    ]
+  ], 
+  "BB-norm-F-25036636-005.a1": [
+    [
+      "T1", 
+      "cheese"
+    ], 
+    [
+      "T2", 
+      "community"
+    ], 
+    [
+      "T6", 
+      "raw milk"
+    ], 
+    [
+      "T8", 
+      "community"
+    ], 
+    [
+      "T11", 
+      "rinds"
+    ], 
+    [
+      "T16", 
+      "community"
+    ], 
+    [
+      "T17", 
+      "mature cheeses"
+    ]
+  ], 
+  "BB-norm-21695078.a1": [
+    [
+      "T5", 
+      "respiratory"
+    ], 
+    [
+      "T8", 
+      "infant"
+    ], 
+    [
+      "T9", 
+      "female mouse model of genital tract chlamydia infection"
+    ], 
+    [
+      "T10", 
+      "genital tract"
+    ], 
+    [
+      "T12", 
+      "oviduct"
+    ], 
+    [
+      "T13", 
+      "mucosal"
+    ], 
+    [
+      "T14", 
+      "mice"
+    ], 
+    [
+      "T15", 
+      "intranasal"
+    ], 
+    [
+      "T17", 
+      "mice"
+    ], 
+    [
+      "T18", 
+      "lung"
+    ], 
+    [
+      "T19", 
+      "neutrophils"
+    ], 
+    [
+      "T20", 
+      "T-cells"
+    ], 
+    [
+      "T21", 
+      "lungs"
+    ], 
+    [
+      "T22", 
+      "TLR2-deficient mice"
+    ], 
+    [
+      "T23", 
+      "lung"
+    ], 
+    [
+      "T25", 
+      "mucosal"
+    ], 
+    [
+      "T26", 
+      "mucosal surfaces"
+    ]
+  ], 
+  "BB-norm-16273411.a1": [
+    [
+      "T3", 
+      "neonatal"
+    ], 
+    [
+      "T6", 
+      "humans"
+    ], 
+    [
+      "T7", 
+      "animals"
+    ], 
+    [
+      "T8", 
+      "humans"
+    ], 
+    [
+      "T10", 
+      "placenta of a 38-year-old secondary recurrent aborter"
+    ], 
+    [
+      "T11", 
+      "38-year-old secondary recurrent aborter"
+    ]
+  ], 
+  "BB-norm-F-14624315-002.a1": [], 
+  "BB-norm-20174624.a1": [
+    [
+      "T5", 
+      "Neutrophils"
+    ], 
+    [
+      "T7", 
+      "cell"
+    ], 
+    [
+      "T9", 
+      "human"
+    ], 
+    [
+      "T10", 
+      "human innate immune system"
+    ], 
+    [
+      "T11", 
+      "macrophages"
+    ], 
+    [
+      "T12", 
+      "polymorphonuclear leukocytes"
+    ], 
+    [
+      "T13", 
+      "neutrophils"
+    ], 
+    [
+      "T14", 
+      "PMNs"
+    ], 
+    [
+      "T17", 
+      "humans"
+    ], 
+    [
+      "T22", 
+      "murine macrophages"
+    ], 
+    [
+      "T23", 
+      "578 murine dendritic cells"
+    ], 
+    [
+      "T24", 
+      "murine"
+    ], 
+    [
+      "T26", 
+      "neutrophil"
+    ], 
+    [
+      "T30", 
+      "human monocyte-derived macrophages"
+    ], 
+    [
+      "T31", 
+      "human"
+    ], 
+    [
+      "T32", 
+      "HMDM"
+    ], 
+    [
+      "T33", 
+      "neutrophils"
+    ], 
+    [
+      "T34", 
+      "HMDMs"
+    ], 
+    [
+      "T35", 
+      "human neutrophils"
+    ], 
+    [
+      "T36", 
+      "human"
+    ], 
+    [
+      "T39", 
+      "PMN"
+    ], 
+    [
+      "T40", 
+      "PMN"
+    ], 
+    [
+      "T41", 
+      "human PMNs"
+    ], 
+    [
+      "T42", 
+      "human"
+    ], 
+    [
+      "T45", 
+      "cell"
+    ], 
+    [
+      "T46", 
+      "PMN"
+    ], 
+    [
+      "T49", 
+      "PMN"
+    ], 
+    [
+      "T50", 
+      "PMN cell"
+    ], 
+    [
+      "T54", 
+      "human neutrophils"
+    ], 
+    [
+      "T55", 
+      "human"
+    ], 
+    [
+      "T56", 
+      "PMN"
+    ], 
+    [
+      "T59", 
+      "PMN cell"
+    ], 
+    [
+      "T61", 
+      "PMN"
+    ], 
+    [
+      "T62", 
+      "human"
+    ], 
+    [
+      "T63", 
+      "PMN"
+    ]
+  ], 
+  "BB-norm-460951.a1": [
+    [
+      "T5", 
+      "pulmonary"
+    ], 
+    [
+      "T6", 
+      "Tuberculosis Reference Laboratory"
+    ], 
+    [
+      "T8", 
+      "pulmonary"
+    ], 
+    [
+      "T10", 
+      "lymph node"
+    ], 
+    [
+      "T11", 
+      "lymph"
+    ], 
+    [
+      "T12", 
+      "children"
+    ], 
+    [
+      "T14", 
+      "superficial abscesses"
+    ]
+  ], 
+  "BB-norm-F-25036636-001.a1": [
+    [
+      "T3", 
+      "moist bloomy rinds"
+    ], 
+    [
+      "T8", 
+      "dry natural rinds"
+    ]
+  ], 
+  "BB-norm-F-20167385-007.a1": [
+    [
+      "T1", 
+      "151 surface microbiota of Taleggio cheeses"
+    ], 
+    [
+      "T2", 
+      "129;144 151 surface microbiota of Gorgonzola cheeses"
+    ], 
+    [
+      "T3", 
+      "151 surface microbiota of Formaggio di Fossa cheeses"
+    ], 
+    [
+      "T4", 
+      "151 Formaggio di Fossa cheeses"
+    ], 
+    [
+      "T5", 
+      "151 Gorgonzola cheeses"
+    ], 
+    [
+      "T6", 
+      "Taleggio cheeses"
+    ]
+  ], 
+  "BB-norm-F-20167385-008.a1": [
+    [
+      "T1", 
+      "white mould rind"
+    ], 
+    [
+      "T2", 
+      "Scimudin cheese"
+    ], 
+    [
+      "T6", 
+      "Casera Valtellina"
+    ], 
+    [
+      "T7", 
+      "cheese"
+    ], 
+    [
+      "T8", 
+      "rind"
+    ]
+  ], 
+  "BB-norm-23902156.a1": [
+    [
+      "T9", 
+      "Penicillium-sensitive atopic sera"
+    ]
+  ], 
+  "BB-norm-F-20167385-010.a1": [
+    [
+      "T4", 
+      "cheese rinds"
+    ], 
+    [
+      "T5", 
+      "cheese"
+    ], 
+    [
+      "T7", 
+      "270 rind of Gorgonzola cheeses"
+    ], 
+    [
+      "T8", 
+      "270 rind of Scimudin cheeses"
+    ], 
+    [
+      "T9", 
+      "270 Gorgonzola cheeses"
+    ], 
+    [
+      "T10", 
+      "Scimudin cheeses"
+    ], 
+    [
+      "T11", 
+      "surface of Gobbeen cheese"
+    ], 
+    [
+      "T12", 
+      "Gobbeen cheese"
+    ], 
+    [
+      "T18", 
+      "dairy"
+    ]
+  ], 
+  "BB-norm-F-20167385-005.a1": [
+    [
+      "T11", 
+      "Scimudin cheese"
+    ]
+  ], 
+  "BB-norm-18094887.a1": [
+    [
+      "T5", 
+      "animals"
+    ], 
+    [
+      "T6", 
+      "humans"
+    ], 
+    [
+      "T7", 
+      "ticks"
+    ], 
+    [
+      "T8", 
+      "fleas"
+    ], 
+    [
+      "T9", 
+      "flea"
+    ], 
+    [
+      "T10", 
+      "Adoratopsylla antiquorum antiquorum"
+    ], 
+    [
+      "T11", 
+      "Ctenocephalides felis felis"
+    ], 
+    [
+      "T12", 
+      "Polygenis atopus"
+    ], 
+    [
+      "T13", 
+      "Polygenis rimatus"
+    ], 
+    [
+      "T14", 
+      "Polygenis roberti roberti"
+    ], 
+    [
+      "T15", 
+      "Polygenis tripus"
+    ], 
+    [
+      "T16", 
+      "Rhopalopsyllus lugubris"
+    ], 
+    [
+      "T17", 
+      "Rhopalopsyllus lutzi lutzi"
+    ], 
+    [
+      "T18", 
+      "tick"
+    ], 
+    [
+      "T19", 
+      "Amblyomma aureolatum"
+    ], 
+    [
+      "T20", 
+      "Amblyomma cajennense"
+    ], 
+    [
+      "T21", 
+      "Amblyomma dubitatum"
+    ], 
+    [
+      "T22", 
+      "Ixodes loricatus"
+    ], 
+    [
+      "T23", 
+      "Rhipicephalus sanguineus"
+    ], 
+    [
+      "T24", 
+      "dogs"
+    ], 
+    [
+      "T25", 
+      "cats"
+    ], 
+    [
+      "T26", 
+      "opossums"
+    ], 
+    [
+      "T29", 
+      "fleas"
+    ], 
+    [
+      "T31", 
+      "ticks"
+    ], 
+    [
+      "T32", 
+      "766 animal blood"
+    ], 
+    [
+      "T33", 
+      "animal"
+    ], 
+    [
+      "T34", 
+      "human blood"
+    ], 
+    [
+      "T35", 
+      "human"
+    ], 
+    [
+      "T37", 
+      "animal"
+    ], 
+    [
+      "T38", 
+      "834 animal sera"
+    ], 
+    [
+      "T39", 
+      "human"
+    ], 
+    [
+      "T40", 
+      "human sera"
+    ], 
+    [
+      "T46", 
+      "999 opossum sera"
+    ], 
+    [
+      "T47", 
+      "opossum"
+    ], 
+    [
+      "T48", 
+      "999 dog sera"
+    ], 
+    [
+      "T49", 
+      "dog"
+    ], 
+    [
+      "T50", 
+      "horse"
+    ], 
+    [
+      "T51", 
+      "999 horse sera"
+    ], 
+    [
+      "T52", 
+      "human sera"
+    ], 
+    [
+      "T53", 
+      "human"
+    ], 
+    [
+      "T56", 
+      "sera"
+    ], 
+    [
+      "T58", 
+      "1247 opossum sera"
+    ], 
+    [
+      "T59", 
+      "opossum"
+    ], 
+    [
+      "T60", 
+      "dog"
+    ], 
+    [
+      "T61", 
+      "1247 dog sera"
+    ], 
+    [
+      "T62", 
+      "horse"
+    ], 
+    [
+      "T63", 
+      "horse sera"
+    ], 
+    [
+      "T67", 
+      "animals"
+    ], 
+    [
+      "T68", 
+      "humans"
+    ]
+  ], 
+  "BB-norm-11989773.a1": [
+    [
+      "T5", 
+      "chicken nugget processing plant"
+    ], 
+    [
+      "T6", 
+      "chicken"
+    ], 
+    [
+      "T7", 
+      "chicken nugget"
+    ], 
+    [
+      "T11", 
+      "food handlers"
+    ], 
+    [
+      "T12", 
+      "food"
+    ], 
+    [
+      "T13", 
+      "chicken"
+    ], 
+    [
+      "T14", 
+      "chicken nugget"
+    ], 
+    [
+      "T15", 
+      "chicken nugget processing plant"
+    ], 
+    [
+      "T16", 
+      "selective agars"
+    ], 
+    [
+      "T17", 
+      "PALCAM"
+    ], 
+    [
+      "T18", 
+      "LPM"
+    ], 
+    [
+      "T19", 
+      "HCLA"
+    ], 
+    [
+      "T20", 
+      "food handler"
+    ], 
+    [
+      "T21", 
+      "food"
+    ], 
+    [
+      "T22", 
+      "food"
+    ], 
+    [
+      "T23", 
+      "food handlers"
+    ]
+  ], 
+  "BB-norm-1214327.a1": [
+    [
+      "T4", 
+      "clinical"
+    ], 
+    [
+      "T6", 
+      "clinical"
+    ], 
+    [
+      "T7", 
+      "gastroenteritis patients"
+    ], 
+    [
+      "T8", 
+      "healthy carriers"
+    ], 
+    [
+      "T9", 
+      "water"
+    ], 
+    [
+      "T10", 
+      "fish samples"
+    ]
+  ]
+}

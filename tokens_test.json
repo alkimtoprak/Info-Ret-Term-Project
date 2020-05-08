@@ -1,0 +1,3884 @@
+{
+  "BB-norm-12443829.a1": [
+    [
+      "T3", 
+      "human"
+    ], 
+    [
+      "T6", 
+      "tissue culture cells"
+    ], 
+    [
+      "T7", 
+      "animals"
+    ], 
+    [
+      "T13", 
+      "humans"
+    ], 
+    [
+      "T14", 
+      "clinical"
+    ], 
+    [
+      "T17", 
+      "human"
+    ]
+  ], 
+  "BB-norm-F-24794620-016.a1": [
+    [
+      "T6", 
+      "cheese rind"
+    ], 
+    [
+      "T7", 
+      "surfaces of Danish cheeses"
+    ], 
+    [
+      "T8", 
+      "Danish cheeses"
+    ], 
+    [
+      "T12", 
+      "raw milk"
+    ], 
+    [
+      "T13", 
+      "cheese"
+    ], 
+    [
+      "T15", 
+      "Fontina"
+    ], 
+    [
+      "T16", 
+      "Austrian cheeses"
+    ], 
+    [
+      "T19", 
+      "cheese"
+    ], 
+    [
+      "T21", 
+      "raw cow's milk"
+    ], 
+    [
+      "T22", 
+      "cow"
+    ]
+  ], 
+  "BB-norm-F-24794620-005.a1": [
+    [
+      "T4", 
+      "ripening cellars"
+    ]
+  ], 
+  "BB-norm-F-25648083-000.a1": [
+    [
+      "T4", 
+      "poultry"
+    ], 
+    [
+      "T7", 
+      "GI tract"
+    ], 
+    [
+      "T14", 
+      "biofilms"
+    ]
+  ], 
+  "BB-norm-F-24794620-009.a1": [
+    [
+      "T2", 
+      "short-ripened cheese rinds of ripening cellars A1 and A2"
+    ], 
+    [
+      "T3", 
+      "short-ripened cheese"
+    ], 
+    [
+      "T4", 
+      "ripening cellars"
+    ], 
+    [
+      "T5", 
+      "long-ripened cheeses of ripening cellar A3"
+    ], 
+    [
+      "T6", 
+      "ripening cellar"
+    ]
+  ], 
+  "BB-norm-F-25880122-000.a1": [
+    [
+      "T3", 
+      "Flemish acid beer"
+    ], 
+    [
+      "T4", 
+      "beer"
+    ], 
+    [
+      "T5", 
+      "beer"
+    ]
+  ], 
+  "BB-norm-24474814.a1": [
+    [
+      "T7", 
+      "maternal"
+    ], 
+    [
+      "T8", 
+      "fetal"
+    ], 
+    [
+      "T9", 
+      "intrauterine"
+    ], 
+    [
+      "T10", 
+      "intrauterine fetal"
+    ], 
+    [
+      "T11", 
+      "Maternal vaginal"
+    ], 
+    [
+      "T12", 
+      "Maternal"
+    ], 
+    [
+      "T16", 
+      "fetal"
+    ], 
+    [
+      "T17", 
+      "neonatal"
+    ], 
+    [
+      "T19", 
+      "murine model"
+    ], 
+    [
+      "T22", 
+      "vaginal"
+    ], 
+    [
+      "T23", 
+      "fetal"
+    ], 
+    [
+      "T26", 
+      "Intrauterine"
+    ], 
+    [
+      "T27", 
+      "Intrauterine fetal"
+    ], 
+    [
+      "T28", 
+      "pregnant mice"
+    ], 
+    [
+      "T34", 
+      "placental"
+    ], 
+    [
+      "T35", 
+      "maternal"
+    ], 
+    [
+      "T36", 
+      "fetal"
+    ], 
+    [
+      "T37", 
+      "fetal"
+    ], 
+    [
+      "T38", 
+      "animals"
+    ], 
+    [
+      "T40", 
+      "fetal lung"
+    ], 
+    [
+      "T41", 
+      "1147 fetal liver"
+    ], 
+    [
+      "T42", 
+      "fetal"
+    ], 
+    [
+      "T43", 
+      "fetal"
+    ], 
+    [
+      "T44", 
+      "upper genital tract"
+    ], 
+    [
+      "T46", 
+      "fetal"
+    ]
+  ], 
+  "BB-norm-F-24794620-008.a1": [
+    [
+      "T2", 
+      "short-ripened cheeses from all facilities"
+    ], 
+    [
+      "T4", 
+      "dairy products"
+    ], 
+    [
+      "T6", 
+      "cheese producing facilities"
+    ], 
+    [
+      "T7", 
+      "cheese"
+    ], 
+    [
+      "T8", 
+      "marine environments"
+    ], 
+    [
+      "T9", 
+      "sea salt"
+    ], 
+    [
+      "T10", 
+      "sea"
+    ], 
+    [
+      "T11", 
+      "cheese"
+    ], 
+    [
+      "T12", 
+      "cheese surfaces"
+    ], 
+    [
+      "T14", 
+      "short-ripened cheese"
+    ], 
+    [
+      "T15", 
+      "short-ripened cheese rinds"
+    ], 
+    [
+      "T16", 
+      "brine"
+    ], 
+    [
+      "T18", 
+      "VB cheese rinds"
+    ], 
+    [
+      "T19", 
+      "VB cheese"
+    ], 
+    [
+      "T20", 
+      "cheese"
+    ], 
+    [
+      "T21", 
+      "young cheese"
+    ], 
+    [
+      "T23", 
+      "VB"
+    ], 
+    [
+      "T24", 
+      "cheeses"
+    ], 
+    [
+      "T31", 
+      "cheese"
+    ], 
+    [
+      "T34", 
+      "VB cheese"
+    ], 
+    [
+      "T35", 
+      "VB cheese rinds"
+    ], 
+    [
+      "T38", 
+      "red-smear cheeses"
+    ], 
+    [
+      "T40", 
+      "cheese surfaces"
+    ], 
+    [
+      "T41", 
+      "cheese"
+    ]
+  ], 
+  "BB-norm-F-24794620-010.a1": [
+    [
+      "T2", 
+      "old cheeses"
+    ], 
+    [
+      "T3", 
+      "old cheeses"
+    ]
+  ], 
+  "BB-norm-F-15345452-002.a1": [
+    [
+      "T2", 
+      "dairy products"
+    ], 
+    [
+      "T4", 
+      "water tank"
+    ], 
+    [
+      "T6", 
+      "soil"
+    ]
+  ], 
+  "BB-norm-F-15345452-013.a1": [
+    [
+      "T2", 
+      "cheese samples"
+    ]
+  ], 
+  "BB-norm-9804019.a1": [
+    [
+      "T8", 
+      "Aurioscope earpieces"
+    ], 
+    [
+      "T9", 
+      "non disposable aurioscope earpieces"
+    ], 
+    [
+      "T10", 
+      "community paediatric clinics"
+    ], 
+    [
+      "T12", 
+      "pediatrician"
+    ], 
+    [
+      "T13", 
+      "contaminated aurioscope earpieces"
+    ], 
+    [
+      "T14", 
+      "aurioscope earpieced"
+    ], 
+    [
+      "T15", 
+      "community pediatric clinics"
+    ], 
+    [
+      "T16", 
+      "pediatricians' aurioscope earpieces"
+    ], 
+    [
+      "T17", 
+      "pediatricians"
+    ], 
+    [
+      "T18", 
+      "510 blood agar plates"
+    ], 
+    [
+      "T19", 
+      "blood"
+    ], 
+    [
+      "T20", 
+      "blood agar"
+    ], 
+    [
+      "T21", 
+      "mannitol-salt-agar plates"
+    ], 
+    [
+      "T22", 
+      "mannitol-salt-agar"
+    ], 
+    [
+      "T23", 
+      "earpieces"
+    ], 
+    [
+      "T24", 
+      "blood agar"
+    ], 
+    [
+      "T25", 
+      "blood"
+    ], 
+    [
+      "T26", 
+      "blood agar plates"
+    ], 
+    [
+      "T27", 
+      "sheep"
+    ], 
+    [
+      "T28", 
+      "sheep blood"
+    ], 
+    [
+      "T29", 
+      "mannitol-salt-agar-plate"
+    ], 
+    [
+      "T30", 
+      "mannitol-salt-agar"
+    ], 
+    [
+      "T31", 
+      "earpiece"
+    ], 
+    [
+      "T32", 
+      "sterile cotton tipped applicator moistened in sterile saline solution"
+    ], 
+    [
+      "T33", 
+      "sterile saline solution"
+    ], 
+    [
+      "T34", 
+      "blood agar"
+    ], 
+    [
+      "T35", 
+      "blood"
+    ], 
+    [
+      "T36", 
+      "blood agar plate"
+    ], 
+    [
+      "T37", 
+      "mannitol-salt-agar-plate"
+    ], 
+    [
+      "T38", 
+      "mannitol-salt-agar"
+    ], 
+    [
+      "T39", 
+      "plates"
+    ], 
+    [
+      "T40", 
+      "aurioscope earpieces"
+    ], 
+    [
+      "T41", 
+      "contaminated earpieces"
+    ], 
+    [
+      "T43", 
+      "earpieces"
+    ], 
+    [
+      "T50", 
+      "Non disposable earpieces"
+    ], 
+    [
+      "T54", 
+      "children with immunodeficiency"
+    ], 
+    [
+      "T55", 
+      "physicians"
+    ], 
+    [
+      "T56", 
+      "hospital"
+    ], 
+    [
+      "T57", 
+      "patients"
+    ], 
+    [
+      "T58", 
+      "Non disposable earpieces"
+    ]
+  ], 
+  "BB-norm-11395453.a1": [
+    [
+      "T8", 
+      "Conditioned medium from a late-log-phase P. gingivalis culture"
+    ], 
+    [
+      "T13", 
+      "culture medium"
+    ]
+  ], 
+  "BB-norm-10639454.a1": [
+    [
+      "T5", 
+      "infected germfree piglets"
+    ], 
+    [
+      "T7", 
+      "intestinal"
+    ], 
+    [
+      "T8", 
+      "extraintestinal"
+    ], 
+    [
+      "T9", 
+      "pigs"
+    ], 
+    [
+      "T10", 
+      "porcine"
+    ], 
+    [
+      "T11", 
+      "newborn colostrum-deprived germfree piglets"
+    ], 
+    [
+      "T12", 
+      "colostrum"
+    ], 
+    [
+      "T18", 
+      "lung"
+    ], 
+    [
+      "T19", 
+      "647 lung inflammatory lesions"
+    ], 
+    [
+      "T20", 
+      "serosal inflammatory lesions"
+    ], 
+    [
+      "T21", 
+      "serosal"
+    ], 
+    [
+      "T23", 
+      "piglets"
+    ], 
+    [
+      "T24", 
+      "organs of inoculated piglets"
+    ], 
+    [
+      "T25", 
+      "inoculated piglets"
+    ], 
+    [
+      "T26", 
+      "intestinal"
+    ], 
+    [
+      "T29", 
+      "cecum"
+    ], 
+    [
+      "T30", 
+      "colon"
+    ], 
+    [
+      "T31", 
+      "Extraintestinal"
+    ], 
+    [
+      "T32", 
+      "Extraintestinal organs"
+    ], 
+    [
+      "T33", 
+      "lungs"
+    ], 
+    [
+      "T34", 
+      "liver"
+    ], 
+    [
+      "T35", 
+      "spleen"
+    ], 
+    [
+      "T36", 
+      "kidney"
+    ], 
+    [
+      "T37", 
+      "1023 intestinal tissues"
+    ], 
+    [
+      "T38", 
+      "intestinal"
+    ], 
+    [
+      "T39", 
+      "extraintestinal tissues"
+    ], 
+    [
+      "T40", 
+      "extraintestinal"
+    ], 
+    [
+      "T41", 
+      "animals inoculated with either strain"
+    ], 
+    [
+      "T42", 
+      "ileum"
+    ], 
+    [
+      "T45", 
+      "1279 Intestinal tissues"
+    ], 
+    [
+      "T46", 
+      "Intestinal"
+    ], 
+    [
+      "T47", 
+      "ileum"
+    ], 
+    [
+      "T48", 
+      "colon"
+    ], 
+    [
+      "T49", 
+      "1279 extraintestinal tissues"
+    ], 
+    [
+      "T50", 
+      "extraintestinal"
+    ], 
+    [
+      "T51", 
+      "lung"
+    ], 
+    [
+      "T52", 
+      "kidney"
+    ], 
+    [
+      "T53", 
+      "1279 immune tissues"
+    ], 
+    [
+      "T54", 
+      "mesenteric lymph nodes"
+    ], 
+    [
+      "T55", 
+      "spleen"
+    ], 
+    [
+      "T57", 
+      "intestinal organs"
+    ], 
+    [
+      "T58", 
+      "intestinal"
+    ], 
+    [
+      "T59", 
+      "uninoculated piglets"
+    ], 
+    [
+      "T60", 
+      "piglets inoculated with nonpathogenic intestinal E. coli 862B"
+    ], 
+    [
+      "T62", 
+      "intestinal"
+    ], 
+    [
+      "T64", 
+      "intestinal tract"
+    ], 
+    [
+      "T65", 
+      "1839 intestinal organs"
+    ], 
+    [
+      "T66", 
+      "extraintestinal organs"
+    ], 
+    [
+      "T67", 
+      "1904 piglets inoculated with M623DeltaCNF1"
+    ], 
+    [
+      "T68", 
+      "piglets inoculated with E. coli strains M623"
+    ], 
+    [
+      "T71", 
+      "ileum"
+    ], 
+    [
+      "T72", 
+      "immune tissues from piglets inoculated with M623"
+    ], 
+    [
+      "T73", 
+      "2144 immune tissues from piglets inoculated with M623DeltaCNF1"
+    ], 
+    [
+      "T74", 
+      "piglets inoculated with M623"
+    ], 
+    [
+      "T75", 
+      "2144 piglets inoculated with M623DeltaCNF1"
+    ], 
+    [
+      "T81", 
+      "germfree, colostrum-deprived piglets"
+    ], 
+    [
+      "T82", 
+      "colostrum"
+    ]
+  ], 
+  "BB-norm-F-24794620-004.a1": [], 
+  "BB-norm-F-24412414-002.a1": [], 
+  "BB-norm-3492570.a1": [
+    [
+      "T4", 
+      "lapin"
+    ], 
+    [
+      "T5", 
+      "meningeal"
+    ], 
+    [
+      "T7", 
+      "brain"
+    ], 
+    [
+      "T8", 
+      "brain"
+    ], 
+    [
+      "T9", 
+      "brain"
+    ], 
+    [
+      "T10", 
+      "brain water content in untreated rabbits with meningitis"
+    ], 
+    [
+      "T11", 
+      "untreated rabbits with meningitis"
+    ], 
+    [
+      "T12", 
+      "uninfected rabbits"
+    ], 
+    [
+      "T13", 
+      "723 rabbits treated with ceftriaxone alone"
+    ], 
+    [
+      "T14", 
+      "rabbits treated with dexamethasone"
+    ], 
+    [
+      "T15", 
+      "701 rabbits treated with dexamethasone plus ceftriaxone"
+    ], 
+    [
+      "T16", 
+      "cerebrospinal fluid"
+    ], 
+    [
+      "T17", 
+      "CSF"
+    ], 
+    [
+      "T18", 
+      "animals"
+    ], 
+    [
+      "T19", 
+      "meningeal"
+    ], 
+    [
+      "T20", 
+      "brain"
+    ], 
+    [
+      "T21", 
+      "brain water content"
+    ], 
+    [
+      "T22", 
+      "CSF"
+    ], 
+    [
+      "T23", 
+      "infected animals treated with ceftriaxone plus dexamethasone"
+    ], 
+    [
+      "T24", 
+      "animals treated with ceftriaxone alone"
+    ]
+  ], 
+  "BB-norm-16629992.a1": [
+    [
+      "T7", 
+      "channel"
+    ], 
+    [
+      "T8", 
+      "channel catfish"
+    ], 
+    [
+      "T9", 
+      "Ictalurus punctatus"
+    ], 
+    [
+      "T11", 
+      "channel catfish"
+    ], 
+    [
+      "T12", 
+      "channel"
+    ], 
+    [
+      "T13", 
+      "Ictalurus punctatus"
+    ], 
+    [
+      "T17", 
+      "experimentally infected channel catfish"
+    ], 
+    [
+      "T18", 
+      "channel"
+    ], 
+    [
+      "T20", 
+      "channel catfish"
+    ], 
+    [
+      "T21", 
+      "channel"
+    ], 
+    [
+      "T23", 
+      "channel"
+    ], 
+    [
+      "T24", 
+      "channel catfish"
+    ], 
+    [
+      "T26", 
+      "fish hatcheries"
+    ], 
+    [
+      "T27", 
+      "fish"
+    ]
+  ], 
+  "BB-norm-12734439.a1": [
+    [
+      "T13", 
+      "patients who, apart from their nontuberculous mycobacterial disease, seem to be healthy on initial examination"
+    ], 
+    [
+      "T16", 
+      "clinical laboratories"
+    ], 
+    [
+      "T19", 
+      "mycobacterial reference laboratories"
+    ]
+  ], 
+  "BB-norm-24959701.a1": [
+    [
+      "T4", 
+      "humans"
+    ], 
+    [
+      "T6", 
+      "pigs"
+    ], 
+    [
+      "T8", 
+      "humans"
+    ], 
+    [
+      "T11", 
+      "contaminated food"
+    ], 
+    [
+      "T12", 
+      "case-patients with pig-related occupations"
+    ], 
+    [
+      "T13", 
+      "734 case-patients with history of eating high-risk food"
+    ], 
+    [
+      "T14", 
+      "pig"
+    ], 
+    [
+      "T15", 
+      "high-risk food"
+    ]
+  ], 
+  "BB-norm-19526548.a1": [], 
+  "BB-norm-F-25648083-001.a1": [
+    [
+      "T3", 
+      "biofilms"
+    ], 
+    [
+      "T4", 
+      "glass tubes"
+    ], 
+    [
+      "T5", 
+      "sterile microscope slides under aerobic conditions"
+    ], 
+    [
+      "T6", 
+      "GI tract"
+    ], 
+    [
+      "T8", 
+      "biofilm"
+    ], 
+    [
+      "T9", 
+      "sterile microscope slide surfaces"
+    ], 
+    [
+      "T11", 
+      "Biofilm"
+    ], 
+    [
+      "T12", 
+      "polystyrene 96 well plates using crystal violet"
+    ], 
+    [
+      "T13", 
+      "biofilms"
+    ], 
+    [
+      "T18", 
+      "biofilm"
+    ], 
+    [
+      "T23", 
+      "biofilm"
+    ]
+  ], 
+  "BB-norm-F-15345452-001.a1": [
+    [
+      "T5", 
+      "milks"
+    ], 
+    [
+      "T6", 
+      "cheeses"
+    ], 
+    [
+      "T10", 
+      "raw milks"
+    ], 
+    [
+      "T11", 
+      "cheeses"
+    ]
+  ], 
+  "BB-norm-7201661.a1": [
+    [
+      "T5", 
+      "rabbit"
+    ], 
+    [
+      "T6", 
+      "rabbit tissues"
+    ], 
+    [
+      "T9", 
+      "rabbit tissues"
+    ], 
+    [
+      "T10", 
+      "rabbit"
+    ], 
+    [
+      "T14", 
+      "peritoneum"
+    ], 
+    [
+      "T18", 
+      "rabbit"
+    ], 
+    [
+      "T19", 
+      "rabbit peritoneum"
+    ], 
+    [
+      "T23", 
+      "peritoneum"
+    ], 
+    [
+      "T24", 
+      "mesentery samples"
+    ], 
+    [
+      "T25", 
+      "epithelium"
+    ], 
+    [
+      "T26", 
+      "fibers of the mesentery"
+    ], 
+    [
+      "T29", 
+      "rabbit"
+    ], 
+    [
+      "T30", 
+      "rabbit tissues"
+    ], 
+    [
+      "T32", 
+      "peritoneum"
+    ], 
+    [
+      "T35", 
+      "peritoneum"
+    ], 
+    [
+      "T36", 
+      "mesentery"
+    ]
+  ], 
+  "BB-norm-F-25880122-001.a1": [
+    [
+      "T1", 
+      "Laboratory"
+    ], 
+    [
+      "T4", 
+      "beer"
+    ], 
+    [
+      "T5", 
+      "biofilm"
+    ], 
+    [
+      "T7", 
+      "brewery"
+    ], 
+    [
+      "T9", 
+      "beer"
+    ], 
+    [
+      "T11", 
+      "wine"
+    ]
+  ], 
+  "BB-norm-132046.a1": [], 
+  "BB-norm-F-24412414-003.a1": [
+    [
+      "T2", 
+      "filtered broth from 20 LAB strains"
+    ], 
+    [
+      "T4", 
+      "agar"
+    ], 
+    [
+      "T20", 
+      "malt extract agar"
+    ]
+  ], 
+  "BB-norm-7424745.a1": [
+    [
+      "T4", 
+      "corneal ulcers"
+    ], 
+    [
+      "T5", 
+      "corneal"
+    ], 
+    [
+      "T6", 
+      "derelict population"
+    ], 
+    [
+      "T9", 
+      "bacterial corneal ulcer"
+    ], 
+    [
+      "T10", 
+      "corneal"
+    ], 
+    [
+      "T11", 
+      "derelict alcoholics"
+    ], 
+    [
+      "T12", 
+      "New York City"
+    ], 
+    [
+      "T14", 
+      "ulcer"
+    ], 
+    [
+      "T16", 
+      "Bowery inhabitants"
+    ], 
+    [
+      "T18", 
+      "noses"
+    ], 
+    [
+      "T19", 
+      "corneal ulcers"
+    ], 
+    [
+      "T20", 
+      "corneal"
+    ]
+  ], 
+  "BB-norm-F-15345452-007.a1": [
+    [
+      "T1", 
+      "63 Leerdamer cheese"
+    ]
+  ], 
+  "BB-norm-F-24412414-004.a1": [
+    [
+      "T8", 
+      "MRS broth"
+    ]
+  ], 
+  "BB-norm-20637430.a1": [
+    [
+      "T4", 
+      "gastric"
+    ], 
+    [
+      "T5", 
+      "gastric biopsy"
+    ], 
+    [
+      "T7", 
+      "gastric"
+    ], 
+    [
+      "T8", 
+      "gastric ulcer"
+    ], 
+    [
+      "T9", 
+      "gastric"
+    ], 
+    [
+      "T10", 
+      "mucosal associated lymphoid tissue"
+    ], 
+    [
+      "T11", 
+      "lymphoid tissue"
+    ], 
+    [
+      "T13", 
+      "gastric biopsy"
+    ], 
+    [
+      "T14", 
+      "gastric"
+    ], 
+    [
+      "T15", 
+      "patient"
+    ], 
+    [
+      "T17", 
+      "laboratories"
+    ], 
+    [
+      "T19", 
+      "patients"
+    ], 
+    [
+      "T20", 
+      "polyps"
+    ], 
+    [
+      "T23", 
+      "gastric"
+    ], 
+    [
+      "T24", 
+      "gastric biopsies"
+    ], 
+    [
+      "T27", 
+      "previously treated patients"
+    ]
+  ], 
+  "BB-norm-F-24794620-014.a1": [
+    [
+      "T5", 
+      "185 European soft cheeses"
+    ], 
+    [
+      "T6", 
+      "185 European semi-hard cheeses"
+    ]
+  ], 
+  "BB-norm-F-24794620-006.a1": [
+    [
+      "T1", 
+      "cheese"
+    ], 
+    [
+      "T2", 
+      "cheese rinds from facility A"
+    ], 
+    [
+      "T6", 
+      "cheese rinds from facility B"
+    ], 
+    [
+      "T7", 
+      "cheese"
+    ]
+  ], 
+  "BB-norm-F-24412414-005.a1": [
+    [
+      "T3", 
+      "synthetic media"
+    ]
+  ], 
+  "BB-norm-F-24794620-002.a1": [
+    [
+      "T1", 
+      "cheese"
+    ], 
+    [
+      "T4", 
+      "Young cheese rinds"
+    ], 
+    [
+      "T5", 
+      "Young cheese"
+    ], 
+    [
+      "T11", 
+      "old cheeses"
+    ]
+  ], 
+  "BB-norm-F-15345452-006.a1": [
+    [
+      "T1", 
+      "pasteurized Leerdamer cheese"
+    ]
+  ], 
+  "BB-norm-F-15345452-014.a1": [
+    [
+      "T2", 
+      "surface of cheeses"
+    ], 
+    [
+      "T3", 
+      "cheeses"
+    ]
+  ], 
+  "BB-norm-24837294.a1": [
+    [
+      "T5", 
+      "endothelial"
+    ], 
+    [
+      "T6", 
+      "endothelial cell"
+    ], 
+    [
+      "T10", 
+      "human"
+    ], 
+    [
+      "T11", 
+      "human coronary artery endothelial cells"
+    ], 
+    [
+      "T12", 
+      "coronary artery"
+    ], 
+    [
+      "T13", 
+      "endothelial"
+    ], 
+    [
+      "T14", 
+      "HCAEC"
+    ], 
+    [
+      "T16", 
+      "Galleria mellonella"
+    ], 
+    [
+      "T20", 
+      "HCAEC"
+    ], 
+    [
+      "T22", 
+      "G. mellonella"
+    ]
+  ], 
+  "BB-norm-24261996.a1": [
+    [
+      "T8", 
+      "vaccine"
+    ], 
+    [
+      "T9", 
+      "respiratory"
+    ], 
+    [
+      "T14", 
+      "live nasal vaccine"
+    ], 
+    [
+      "T15", 
+      "nasal"
+    ], 
+    [
+      "T16", 
+      "adult volunteers"
+    ], 
+    [
+      "T17", 
+      "human infants"
+    ], 
+    [
+      "T19", 
+      "pediatric"
+    ], 
+    [
+      "T20", 
+      "respiratory"
+    ], 
+    [
+      "T25", 
+      "680 adult mice"
+    ], 
+    [
+      "T26", 
+      "neonatal mice"
+    ], 
+    [
+      "T28", 
+      "immune cell"
+    ], 
+    [
+      "T30", 
+      "neutrophils"
+    ], 
+    [
+      "T31", 
+      "airway"
+    ], 
+    [
+      "T32", 
+      "airway lumen"
+    ], 
+    [
+      "T33", 
+      "mucosal CD4(+) T cells"
+    ], 
+    [
+      "T34", 
+      "mucosal"
+    ], 
+    [
+      "T38", 
+      "lung cell"
+    ], 
+    [
+      "T39", 
+      "lung"
+    ], 
+    [
+      "T42", 
+      "CD4(+) T cells"
+    ], 
+    [
+      "T43", 
+      "natural killer cells"
+    ], 
+    [
+      "T44", 
+      "regulatory cells"
+    ], 
+    [
+      "T45", 
+      "neutrophils"
+    ], 
+    [
+      "T50", 
+      "mucosal"
+    ]
+  ], 
+  "BB-norm-F-24794620-000.a1": [
+    [
+      "T2", 
+      "cheese"
+    ], 
+    [
+      "T3", 
+      "cheese rinds"
+    ]
+  ], 
+  "BB-norm-F-15345452-000.a1": [
+    [
+      "T1", 
+      "dairy"
+    ], 
+    [
+      "T8", 
+      "commercial cheeses"
+    ], 
+    [
+      "T11", 
+      "dairy ecosystem"
+    ]
+  ], 
+  "BB-norm-4387161.a1": [
+    [
+      "T6", 
+      "mammalian"
+    ], 
+    [
+      "T7", 
+      "mammalian liver"
+    ], 
+    [
+      "T8", 
+      "higher plants"
+    ]
+  ], 
+  "BB-norm-17535798.a1": [
+    [
+      "T5", 
+      "Humans"
+    ], 
+    [
+      "T8", 
+      "cattle"
+    ], 
+    [
+      "T13", 
+      "humans"
+    ], 
+    [
+      "T15", 
+      "humans"
+    ], 
+    [
+      "T24", 
+      "clinical"
+    ], 
+    [
+      "T30", 
+      "humans"
+    ]
+  ], 
+  "BB-norm-20609608.a1": [
+    [
+      "T5", 
+      "liver"
+    ], 
+    [
+      "T6", 
+      "liver sinusoidal endothelial cells"
+    ], 
+    [
+      "T7", 
+      "endothelial"
+    ], 
+    [
+      "T11", 
+      "liver"
+    ], 
+    [
+      "T12", 
+      "liver sinusoidal endothelial cells"
+    ], 
+    [
+      "T13", 
+      "liver"
+    ], 
+    [
+      "T14", 
+      "endothelial"
+    ], 
+    [
+      "T15", 
+      "LSECs"
+    ], 
+    [
+      "T16", 
+      "liver"
+    ], 
+    [
+      "T17", 
+      "LSECs"
+    ], 
+    [
+      "T18", 
+      "blood"
+    ], 
+    [
+      "T19", 
+      "hepatocytes"
+    ], 
+    [
+      "T22", 
+      "LSECs"
+    ], 
+    [
+      "T23", 
+      "LSEC"
+    ], 
+    [
+      "T25", 
+      "liver"
+    ], 
+    [
+      "T27", 
+      "LSECs"
+    ], 
+    [
+      "T29", 
+      "LSECs"
+    ], 
+    [
+      "T30", 
+      "LSECs"
+    ], 
+    [
+      "T31", 
+      "liver"
+    ], 
+    [
+      "T32", 
+      "LSEC"
+    ]
+  ], 
+  "BB-norm-F-24794620-007.a1": [
+    [
+      "T2", 
+      "young cheeses"
+    ], 
+    [
+      "T3", 
+      "ripening cellar"
+    ], 
+    [
+      "T4", 
+      "Cheese"
+    ], 
+    [
+      "T5", 
+      "Cheese rinds from cellars A1 and A2"
+    ], 
+    [
+      "T6", 
+      "cellars"
+    ], 
+    [
+      "T10", 
+      "old cheeses"
+    ], 
+    [
+      "T11", 
+      "Short-ripened cheese rinds"
+    ], 
+    [
+      "T12", 
+      "Short-ripened cheese"
+    ], 
+    [
+      "T21", 
+      "long-ripened cheeses"
+    ], 
+    [
+      "T22", 
+      "914 young cheeses"
+    ], 
+    [
+      "T23", 
+      "old cheeses"
+    ], 
+    [
+      "T24", 
+      "Short-ripened cheeses"
+    ], 
+    [
+      "T28", 
+      "short-ripened cheeses"
+    ], 
+    [
+      "T31", 
+      "long-ripened cheeses"
+    ], 
+    [
+      "T32", 
+      "Short-ripened cheeses"
+    ]
+  ], 
+  "BB-norm-F-24794620-001.a1": [
+    [
+      "T1", 
+      "Vorarlberger Bergk\u00e4se"
+    ], 
+    [
+      "T2", 
+      "VB"
+    ], 
+    [
+      "T3", 
+      "Austrian artisanal hard cheese"
+    ], 
+    [
+      "T4", 
+      "raw cow's milk"
+    ], 
+    [
+      "T5", 
+      "cow"
+    ]
+  ], 
+  "BB-norm-11548252.a1": [
+    [
+      "T8", 
+      "patients with diarrhea of different severity"
+    ], 
+    [
+      "T10", 
+      "epithelial"
+    ], 
+    [
+      "T11", 
+      "epithelial cells of the intestine"
+    ], 
+    [
+      "T12", 
+      "intestine"
+    ]
+  ], 
+  "BB-norm-15281948.a1": [
+    [
+      "T11", 
+      "cultures with various minerals and carbon sources"
+    ], 
+    [
+      "T15", 
+      "393 cultures containing cypermethrin SP formulations"
+    ], 
+    [
+      "T16", 
+      "361 cultures containing flumethrin SP"
+    ], 
+    [
+      "T17", 
+      "water"
+    ], 
+    [
+      "T18", 
+      "water"
+    ], 
+    [
+      "T19", 
+      "water and sucrose"
+    ], 
+    [
+      "T20", 
+      "mineral broth"
+    ], 
+    [
+      "T21", 
+      "mineral broth and sucrose"
+    ], 
+    [
+      "T22", 
+      "mineral broth and sucrose medium"
+    ], 
+    [
+      "T24", 
+      "mineral content"
+    ], 
+    [
+      "T26", 
+      "carbon substrate"
+    ], 
+    [
+      "T31", 
+      "sheep"
+    ], 
+    [
+      "T32", 
+      "sheep dip"
+    ]
+  ], 
+  "BB-norm-18809652.a1": [
+    [
+      "T4", 
+      "gastroduodenal"
+    ], 
+    [
+      "T7", 
+      "epithelial"
+    ], 
+    [
+      "T8", 
+      "epithelial cell"
+    ]
+  ], 
+  "BB-norm-24651768.a1": [
+    [
+      "T6", 
+      "Conjunctival"
+    ], 
+    [
+      "T10", 
+      "conjunctiva"
+    ], 
+    [
+      "T11", 
+      "conjunctival"
+    ], 
+    [
+      "T12", 
+      "Natural Killer cells"
+    ], 
+    [
+      "T14", 
+      "Gambian pedigrees"
+    ], 
+    [
+      "T15", 
+      "individual with conjunctival scarring"
+    ], 
+    [
+      "T16", 
+      "conjunctival"
+    ], 
+    [
+      "T17", 
+      "Individuals"
+    ], 
+    [
+      "T19", 
+      "NK cells"
+    ], 
+    [
+      "T20", 
+      "conjunctival"
+    ], 
+    [
+      "T21", 
+      "conjunctival"
+    ], 
+    [
+      "T22", 
+      "individuals carrying HLA-C2"
+    ]
+  ], 
+  "BB-norm-24302732.a1": [], 
+  "BB-norm-19329624.a1": [
+    [
+      "T4", 
+      "fermented fish"
+    ], 
+    [
+      "T5", 
+      "pla-ra"
+    ], 
+    [
+      "T10", 
+      "fermented fish"
+    ], 
+    [
+      "T11", 
+      "pla-ra"
+    ]
+  ], 
+  "BB-norm-7548409.a1": [
+    [
+      "T3", 
+      "urinary calculus in young rats"
+    ], 
+    [
+      "T4", 
+      "urinary"
+    ], 
+    [
+      "T5", 
+      "young rats"
+    ], 
+    [
+      "T7", 
+      "spontaneous urinary calculus in young laboratory rats"
+    ], 
+    [
+      "T8", 
+      "urinary"
+    ], 
+    [
+      "T9", 
+      "young laboratory rats"
+    ], 
+    [
+      "T10", 
+      "rat"
+    ], 
+    [
+      "T12", 
+      "rat"
+    ], 
+    [
+      "T19", 
+      "urinary"
+    ], 
+    [
+      "T20", 
+      "young rats"
+    ]
+  ], 
+  "BB-norm-24416173.a1": [
+    [
+      "T4", 
+      "stool"
+    ], 
+    [
+      "T6", 
+      "stool"
+    ], 
+    [
+      "T7", 
+      "clinical fecal samples"
+    ], 
+    [
+      "T8", 
+      "clinical"
+    ], 
+    [
+      "T9", 
+      "cytotoxigenic culture"
+    ], 
+    [
+      "T11", 
+      "laboratory"
+    ]
+  ], 
+  "BB-norm-F-15345452-008.a1": [
+    [
+      "T1", 
+      "Munster cheese"
+    ], 
+    [
+      "T7", 
+      "Munster cheese"
+    ], 
+    [
+      "T8", 
+      "Morbier cheese"
+    ], 
+    [
+      "T17", 
+      "Morbier cheese"
+    ], 
+    [
+      "T23", 
+      "Epoisses cheese"
+    ], 
+    [
+      "T32", 
+      "salt water"
+    ]
+  ], 
+  "BB-norm-F-24412414-001.a1": [], 
+  "BB-norm-22092526.a1": [
+    [
+      "T6", 
+      "Gingival"
+    ], 
+    [
+      "T7", 
+      "gingival"
+    ], 
+    [
+      "T8", 
+      "gingival"
+    ], 
+    [
+      "T9", 
+      "333 pregnant women without periodontitis"
+    ], 
+    [
+      "T10", 
+      "non-pregnant women without periodontitis"
+    ], 
+    [
+      "T11", 
+      "pregnant women"
+    ], 
+    [
+      "T12", 
+      "non-pregnant women"
+    ], 
+    [
+      "T13", 
+      "plaque"
+    ], 
+    [
+      "T14", 
+      "gingival"
+    ], 
+    [
+      "T15", 
+      "salivary"
+    ], 
+    [
+      "T16", 
+      "gingival crevicular fluid"
+    ], 
+    [
+      "T17", 
+      "gingival"
+    ], 
+    [
+      "T18", 
+      "periodontal pathogens culture"
+    ], 
+    [
+      "T19", 
+      "periodontal"
+    ], 
+    [
+      "T22", 
+      "gingival"
+    ], 
+    [
+      "T23", 
+      "non-pregnant group"
+    ], 
+    [
+      "T24", 
+      "gingival tissues"
+    ], 
+    [
+      "T26", 
+      "gingival"
+    ]
+  ], 
+  "BB-norm-20518637.a1": [
+    [
+      "T12", 
+      "hospitals"
+    ], 
+    [
+      "T13", 
+      "community hospitals"
+    ], 
+    [
+      "T14", 
+      "tertiary care hospitals"
+    ], 
+    [
+      "T15", 
+      "488;511 521 Adults undergoing cardiothoracic procedures"
+    ], 
+    [
+      "T16", 
+      "472;511 521 Adults undergoing neurosurgical procedures"
+    ], 
+    [
+      "T17", 
+      "521 Adults undergoing orthopedic procedures"
+    ], 
+    [
+      "T18", 
+      "521 Adults undergoing plastic surgical procedures"
+    ], 
+    [
+      "T19", 
+      "surgical site"
+    ], 
+    [
+      "T20", 
+      "bloodstream"
+    ], 
+    [
+      "T23", 
+      "nonsuperficial incisional surgical site"
+    ], 
+    [
+      "T24", 
+      "bloodstream"
+    ], 
+    [
+      "T25", 
+      "patients"
+    ], 
+    [
+      "T33", 
+      "bloodstream"
+    ], 
+    [
+      "T36", 
+      "surgical site"
+    ]
+  ], 
+  "BB-norm-22662140.a1": [], 
+  "BB-norm-17339250.a1": [
+    [
+      "T2", 
+      "patients treated for Helicobacter pylori infection"
+    ]
+  ], 
+  "BB-norm-F-15345452-009.a1": [
+    [
+      "T1", 
+      "cheeses"
+    ], 
+    [
+      "T2", 
+      "red smear cheese"
+    ], 
+    [
+      "T4", 
+      "cheese surface"
+    ], 
+    [
+      "T5", 
+      "cheese"
+    ]
+  ], 
+  "BB-norm-8211027.a1": [
+    [
+      "T3", 
+      "Cervical"
+    ], 
+    [
+      "T5", 
+      "child"
+    ], 
+    [
+      "T6", 
+      "cervical"
+    ], 
+    [
+      "T7", 
+      "Cervical"
+    ], 
+    [
+      "T8", 
+      "children"
+    ], 
+    [
+      "T9", 
+      "five-year-old boy with unilateral cervical lymphadenitis who was in good health and showed neither clinical nor laboratory signs of systemic infection"
+    ], 
+    [
+      "T10", 
+      "cervical"
+    ], 
+    [
+      "T11", 
+      "lymph"
+    ], 
+    [
+      "T12", 
+      "lymph nodes"
+    ], 
+    [
+      "T14", 
+      "lymph node culture"
+    ], 
+    [
+      "T15", 
+      "lymph"
+    ], 
+    [
+      "T16", 
+      "lymph node"
+    ], 
+    [
+      "T17", 
+      "pediatric"
+    ], 
+    [
+      "T18", 
+      "cervical"
+    ], 
+    [
+      "T20", 
+      "children between one and five years of age"
+    ], 
+    [
+      "T21", 
+      "girls"
+    ], 
+    [
+      "T22", 
+      "boys"
+    ], 
+    [
+      "T23", 
+      "immunocompetent children"
+    ]
+  ], 
+  "BB-norm-F-15345452-010.a1": [
+    [
+      "T1", 
+      "core Beaufort cheeses"
+    ], 
+    [
+      "T2", 
+      "Beaufort cheeses"
+    ], 
+    [
+      "T3", 
+      "core Comt\u00e9 cheeses"
+    ], 
+    [
+      "T4", 
+      "Comt\u00e9 cheeses"
+    ], 
+    [
+      "T5", 
+      "part of the cheese"
+    ], 
+    [
+      "T6", 
+      "cheese"
+    ], 
+    [
+      "T7", 
+      "cheese"
+    ], 
+    [
+      "T8", 
+      "cheese core"
+    ], 
+    [
+      "T9", 
+      "cheese"
+    ], 
+    [
+      "T10", 
+      "cheese surface"
+    ], 
+    [
+      "T11", 
+      "cheese core"
+    ], 
+    [
+      "T12", 
+      "cheese"
+    ], 
+    [
+      "T18", 
+      "cheese"
+    ], 
+    [
+      "T19", 
+      "cheese surface"
+    ]
+  ], 
+  "BB-norm-24722168.a1": [
+    [
+      "T5", 
+      "Th1 cellular"
+    ], 
+    [
+      "T6", 
+      "human"
+    ], 
+    [
+      "T7", 
+      "human gut microbiota transplanted neonatal gnotobiotic pig model"
+    ], 
+    [
+      "T8", 
+      "human gut"
+    ], 
+    [
+      "T9", 
+      "human gut microbiota"
+    ], 
+    [
+      "T10", 
+      "human gut"
+    ], 
+    [
+      "T11", 
+      "human"
+    ], 
+    [
+      "T12", 
+      "human gut microbiota (HGM) transplanted gnotobiotic (Gn) pig model"
+    ], 
+    [
+      "T13", 
+      "human gut microbiota (HGM)"
+    ], 
+    [
+      "T14", 
+      "HGM"
+    ], 
+    [
+      "T15", 
+      "human"
+    ], 
+    [
+      "T19", 
+      "HRV vaccine"
+    ], 
+    [
+      "T21", 
+      "Gn pig model"
+    ], 
+    [
+      "T23", 
+      "T cell"
+    ], 
+    [
+      "T24", 
+      "B cell"
+    ], 
+    [
+      "T25", 
+      "rotavirus vaccines"
+    ], 
+    [
+      "T27", 
+      "HGM transplanted neonatal Gn pigs"
+    ], 
+    [
+      "T28", 
+      "HGM"
+    ], 
+    [
+      "T29", 
+      "neonatal human fecal"
+    ], 
+    [
+      "T30", 
+      "neonatal human fecal suspension"
+    ], 
+    [
+      "T31", 
+      "neonatal human"
+    ], 
+    [
+      "T32", 
+      "germ-free pigs"
+    ], 
+    [
+      "T36", 
+      "Gn pigs"
+    ], 
+    [
+      "T37", 
+      "HGM"
+    ], 
+    [
+      "T38", 
+      "HGM transplanted Gn pigs"
+    ], 
+    [
+      "T39", 
+      "HGM"
+    ], 
+    [
+      "T40", 
+      "neonatal immune system"
+    ], 
+    [
+      "T41", 
+      "T cell"
+    ], 
+    [
+      "T42", 
+      "T cells"
+    ], 
+    [
+      "T43", 
+      "AttHRV-vaccinated pigs"
+    ], 
+    [
+      "T48", 
+      "HGM Gn pig intestinal contents"
+    ], 
+    [
+      "T49", 
+      "HGM Gn pig intestinal"
+    ], 
+    [
+      "T50", 
+      "HGM Gn pig"
+    ], 
+    [
+      "T51", 
+      "HGM"
+    ], 
+    [
+      "T53", 
+      "T cell"
+    ], 
+    [
+      "T54", 
+      "AttHRV vaccine"
+    ], 
+    [
+      "T59", 
+      "serum"
+    ], 
+    [
+      "T60", 
+      "intestinal contents"
+    ], 
+    [
+      "T61", 
+      "intestinal"
+    ], 
+    [
+      "T62", 
+      "AttHRV vaccine"
+    ], 
+    [
+      "T65", 
+      "microbiota"
+    ], 
+    [
+      "T66", 
+      "HGM pigs"
+    ], 
+    [
+      "T67", 
+      "HGM"
+    ], 
+    [
+      "T68", 
+      "HGM"
+    ], 
+    [
+      "T69", 
+      "HGM Gn pig"
+    ], 
+    [
+      "T70", 
+      "animal model"
+    ], 
+    [
+      "T71", 
+      "rotavirus vaccines"
+    ], 
+    [
+      "T74", 
+      "vaccines"
+    ], 
+    [
+      "T75", 
+      "gut"
+    ], 
+    [
+      "T76", 
+      "gut microbiota"
+    ]
+  ], 
+  "BB-norm-F-15345452-005.a1": [
+    [
+      "T1", 
+      "Epoisses cheese"
+    ]
+  ], 
+  "BB-norm-6417341.a1": [], 
+  "BB-norm-20077035.a1": [
+    [
+      "T5", 
+      "fermented dairy products"
+    ]
+  ], 
+  "BB-norm-7771426.a1": [
+    [
+      "T7", 
+      "peptic ulcers"
+    ], 
+    [
+      "T9", 
+      "420;454 477 patients with active peptic ulcer disease and H. pylori infection"
+    ], 
+    [
+      "T10", 
+      "444;454 477 patients with ulcer-like dyspepsia and H. pylori infection"
+    ], 
+    [
+      "T11", 
+      "390;400 420;454 477 patients with healed peptic ulcer disease and H. pylori infection"
+    ], 
+    [
+      "T12", 
+      "peptic ulcer"
+    ], 
+    [
+      "T13", 
+      "ulcer"
+    ], 
+    [
+      "T16", 
+      "patients"
+    ], 
+    [
+      "T17", 
+      "patients"
+    ], 
+    [
+      "T19", 
+      "patients with active peptic ulcers"
+    ], 
+    [
+      "T20", 
+      "active peptic ulcers"
+    ], 
+    [
+      "T22", 
+      "peptic ulcers"
+    ]
+  ], 
+  "BB-norm-12563490.a1": [
+    [
+      "T3", 
+      "stomach of BALB/c mice"
+    ], 
+    [
+      "T4", 
+      "BALB/c mice"
+    ], 
+    [
+      "T7", 
+      "experimental murine model"
+    ], 
+    [
+      "T11", 
+      "BALB/c mice"
+    ], 
+    [
+      "T12", 
+      "intragastrically"
+    ], 
+    [
+      "T13", 
+      "broth culture (10(8)organisms/ml) of a coccoid H. pylori clinical isolate"
+    ], 
+    [
+      "T16", 
+      "clinical"
+    ], 
+    [
+      "T17", 
+      "animals"
+    ], 
+    [
+      "T18", 
+      "mice"
+    ], 
+    [
+      "T20", 
+      "Brucella broth"
+    ], 
+    [
+      "T21", 
+      "control group"
+    ], 
+    [
+      "T22", 
+      "Mice"
+    ], 
+    [
+      "T23", 
+      "stomach"
+    ], 
+    [
+      "T24", 
+      "duodenum"
+    ], 
+    [
+      "T25", 
+      "reinfected mice"
+    ], 
+    [
+      "T26", 
+      "inflammatory infiltrate"
+    ], 
+    [
+      "T27", 
+      "stomach"
+    ], 
+    [
+      "T28", 
+      "lymphomonocytic"
+    ], 
+    [
+      "T29", 
+      "plasma cells"
+    ], 
+    [
+      "T30", 
+      "eosinophils"
+    ], 
+    [
+      "T31", 
+      "eosinophilic"
+    ], 
+    [
+      "T32", 
+      "1167 lamina propria of gastric corpus"
+    ], 
+    [
+      "T33", 
+      "submucosa of gastric corpus"
+    ], 
+    [
+      "T34", 
+      "gastric corpus"
+    ], 
+    [
+      "T35", 
+      "animals"
+    ], 
+    [
+      "T36", 
+      "lymphomonocytic"
+    ], 
+    [
+      "T37", 
+      "stomach"
+    ], 
+    [
+      "T40", 
+      "stomach of reinfected mice"
+    ], 
+    [
+      "T41", 
+      "reinfected mice"
+    ]
+  ], 
+  "BB-norm-F-24412414-000.a1": [
+    [
+      "T11", 
+      "food"
+    ]
+  ], 
+  "BB-norm-F-24794620-012.a1": [
+    [
+      "T4", 
+      "surfaces of long-ripened cheeses"
+    ], 
+    [
+      "T5", 
+      "long-ripened cheeses"
+    ], 
+    [
+      "T7", 
+      "cheeses"
+    ], 
+    [
+      "T10", 
+      "surface of Raclette cheese"
+    ], 
+    [
+      "T11", 
+      "Raclette cheese"
+    ], 
+    [
+      "T14", 
+      "long-ripened cheese"
+    ], 
+    [
+      "T15", 
+      "long-ripened cheese rinds of all facilities"
+    ], 
+    [
+      "T16", 
+      "younger cheeses of ripening cellar A1"
+    ], 
+    [
+      "T17", 
+      "ripening cellar"
+    ]
+  ], 
+  "BB-norm-F-24794620-003.a1": [
+    [
+      "T4", 
+      "cheese surface"
+    ], 
+    [
+      "T5", 
+      "cheese"
+    ], 
+    [
+      "T10", 
+      "salt-tolerant bacterial communities"
+    ], 
+    [
+      "T17", 
+      "entire surface of the cheeses"
+    ], 
+    [
+      "T18", 
+      "cheeses"
+    ], 
+    [
+      "T20", 
+      "cheese rinds"
+    ], 
+    [
+      "T21", 
+      "cheese"
+    ], 
+    [
+      "T26", 
+      "cheese"
+    ], 
+    [
+      "T27", 
+      "cheese surfaces"
+    ]
+  ], 
+  "BB-norm-18346136.a1": [
+    [
+      "T7", 
+      "food"
+    ], 
+    [
+      "T9", 
+      "food"
+    ], 
+    [
+      "T10", 
+      "buffered peptone water"
+    ], 
+    [
+      "T11", 
+      "Rappaport-Vassiliadis medium"
+    ], 
+    [
+      "T14", 
+      "artificially contaminated ice cream"
+    ], 
+    [
+      "T15", 
+      "661 artificially contaminated salami samples"
+    ], 
+    [
+      "T16", 
+      "naturally contaminated food samples"
+    ], 
+    [
+      "T17", 
+      "food samples artificially contaminated"
+    ], 
+    [
+      "T19", 
+      "food"
+    ]
+  ], 
+  "BB-norm-20147048.a1": [
+    [
+      "T3", 
+      "plant Kalancho\u00eb daigremontiana"
+    ], 
+    [
+      "T5", 
+      "Kalancho\u00eb daigremontiana"
+    ], 
+    [
+      "T7", 
+      "Sterilized plant tissue"
+    ], 
+    [
+      "T8", 
+      "plant"
+    ], 
+    [
+      "T10", 
+      "shoots"
+    ], 
+    [
+      "T11", 
+      "rooting medium"
+    ], 
+    [
+      "T12", 
+      "rooting"
+    ], 
+    [
+      "T13", 
+      "soil"
+    ], 
+    [
+      "T14", 
+      "Plant"
+    ], 
+    [
+      "T15", 
+      "plants"
+    ], 
+    [
+      "T16", 
+      "soil"
+    ]
+  ], 
+  "BB-norm-F-15345452-011.a1": [
+    [
+      "T4", 
+      "red smear cheeses"
+    ], 
+    [
+      "T5", 
+      "175 Langres cheese"
+    ], 
+    [
+      "T6", 
+      "181 Langres cheese cores"
+    ], 
+    [
+      "T7", 
+      "Epoisses cheese cores"
+    ], 
+    [
+      "T8", 
+      "Epoisses cheese"
+    ], 
+    [
+      "T11", 
+      "Swiss-type cheeses"
+    ], 
+    [
+      "T12", 
+      "306 Comt\u00e9 cheese"
+    ], 
+    [
+      "T13", 
+      "312 Comt\u00e9 cheese cores"
+    ], 
+    [
+      "T14", 
+      "Beaufort cheese"
+    ], 
+    [
+      "T15", 
+      "Beaufort cheese cores"
+    ]
+  ], 
+  "BB-norm-F-15345452-004.a1": [
+    [
+      "T1", 
+      "Morbier cheese"
+    ], 
+    [
+      "T5", 
+      "Morbier cheese"
+    ], 
+    [
+      "T12", 
+      "Morbier cheese"
+    ], 
+    [
+      "T13", 
+      "bacterial population"
+    ], 
+    [
+      "T14", 
+      "microbial community"
+    ], 
+    [
+      "T15", 
+      "cheeses"
+    ], 
+    [
+      "T16", 
+      "Munster cheese"
+    ]
+  ], 
+  "BB-norm-F-24794620-013.a1": [
+    [
+      "T2", 
+      "VB cheese"
+    ], 
+    [
+      "T3", 
+      "VB cheese rinds"
+    ], 
+    [
+      "T4", 
+      "Munster cheese"
+    ], 
+    [
+      "T6", 
+      "short-ripened cheeses of ripening cellar C2"
+    ], 
+    [
+      "T7", 
+      "ripening cellar C2"
+    ]
+  ], 
+  "BB-norm-F-15345452-015.a1": [
+    [
+      "T4", 
+      "plates"
+    ]
+  ], 
+  "BB-norm-9467391.a1": [
+    [
+      "T5", 
+      "human"
+    ]
+  ], 
+  "BB-norm-1531512.a1": [
+    [
+      "T4", 
+      "adult"
+    ], 
+    [
+      "T6", 
+      "adult"
+    ], 
+    [
+      "T8", 
+      "261 periodontally diseased subjects"
+    ], 
+    [
+      "T9", 
+      "261 periodontally healthy subjects"
+    ], 
+    [
+      "T10", 
+      "treated patients with recurrent disease"
+    ], 
+    [
+      "T11", 
+      "polyclonal rabbit antiserum"
+    ], 
+    [
+      "T12", 
+      "rabbit"
+    ], 
+    [
+      "T15", 
+      "dental plaque"
+    ], 
+    [
+      "T16", 
+      "dental"
+    ], 
+    [
+      "T17", 
+      "493 untreated patients"
+    ], 
+    [
+      "T18", 
+      "treated patients"
+    ], 
+    [
+      "T19", 
+      "Supragingival plaque"
+    ], 
+    [
+      "T20", 
+      "periodontally healthy individuals"
+    ], 
+    [
+      "T21", 
+      "H"
+    ], 
+    [
+      "T22", 
+      "669 adults with periodontitis"
+    ], 
+    [
+      "T23", 
+      "638 adults with severe gingivitis"
+    ], 
+    [
+      "T24", 
+      "adults with mild gingivitis"
+    ], 
+    [
+      "T25", 
+      "G1"
+    ], 
+    [
+      "T26", 
+      "G2"
+    ], 
+    [
+      "T27", 
+      "AP"
+    ], 
+    [
+      "T28", 
+      "Subgingival samples"
+    ], 
+    [
+      "T29", 
+      "diseased sites"
+    ], 
+    [
+      "T30", 
+      "G2"
+    ], 
+    [
+      "T31", 
+      "AP"
+    ], 
+    [
+      "T33", 
+      "906 subgingival plaque samples from AP"
+    ], 
+    [
+      "T34", 
+      "906 supragingival plaque samples from AP"
+    ], 
+    [
+      "T35", 
+      "AP"
+    ], 
+    [
+      "T37", 
+      "1041 subgingival plaque samples of G2"
+    ], 
+    [
+      "T38", 
+      "subgingival plaque samples of AP"
+    ], 
+    [
+      "T39", 
+      "AP"
+    ], 
+    [
+      "T40", 
+      "G2"
+    ], 
+    [
+      "T42", 
+      "supragingival plaque of AP"
+    ], 
+    [
+      "T43", 
+      "1160 supragingival plaque of G2"
+    ], 
+    [
+      "T44", 
+      "1184 supragingival plaque samples of G1"
+    ], 
+    [
+      "T45", 
+      "1181;1197 1198 supragingival plaque samples of H"
+    ], 
+    [
+      "T46", 
+      "AP"
+    ], 
+    [
+      "T47", 
+      "G2"
+    ], 
+    [
+      "T48", 
+      "G1"
+    ], 
+    [
+      "T49", 
+      "H"
+    ], 
+    [
+      "T50", 
+      "adults previously treated for moderate to severe adult periodontitis"
+    ], 
+    [
+      "T53", 
+      "sites with recurrent disease"
+    ], 
+    [
+      "T54", 
+      "control sites"
+    ], 
+    [
+      "T55", 
+      "sites with breakdown and positive for W. recta"
+    ], 
+    [
+      "T58", 
+      "sites with advanced adult periodontitis"
+    ], 
+    [
+      "T59", 
+      "adult"
+    ]
+  ], 
+  "BB-norm-19126546.a1": [
+    [
+      "T12", 
+      "macrophage"
+    ], 
+    [
+      "T13", 
+      "liver"
+    ], 
+    [
+      "T14", 
+      "spleen"
+    ]
+  ], 
+  "BB-norm-7766090.a1": [
+    [
+      "T5", 
+      "E. coli cultures"
+    ]
+  ], 
+  "BB-norm-24621108.a1": [
+    [
+      "T3", 
+      "essential oils"
+    ], 
+    [
+      "T4", 
+      "pullulan films"
+    ], 
+    [
+      "T5", 
+      "foodborne"
+    ], 
+    [
+      "T7", 
+      "127 meat products"
+    ], 
+    [
+      "T8", 
+      "poultry products"
+    ], 
+    [
+      "T9", 
+      "essential oils"
+    ], 
+    [
+      "T10", 
+      "edible films"
+    ], 
+    [
+      "T11", 
+      "foods"
+    ], 
+    [
+      "T12", 
+      "pullulan films"
+    ], 
+    [
+      "T13", 
+      "essential oils"
+    ], 
+    [
+      "T14", 
+      "foodborne"
+    ], 
+    [
+      "T16", 
+      "oregano essential oil"
+    ], 
+    [
+      "T17", 
+      "oregano"
+    ], 
+    [
+      "T22", 
+      "rosemary"
+    ], 
+    [
+      "T23", 
+      "rosemary essential oil"
+    ], 
+    [
+      "T34", 
+      "pullulan films"
+    ], 
+    [
+      "T36", 
+      "pullulan films"
+    ], 
+    [
+      "T38", 
+      "1446 vacuum packaged meat products stored at 4 \u00b0C for up to 3 wk"
+    ], 
+    [
+      "T39", 
+      "1446 vacuum packaged poultry products stored at 4 \u00b0C for up to 3 wk"
+    ], 
+    [
+      "T40", 
+      "control films"
+    ], 
+    [
+      "T41", 
+      "films"
+    ], 
+    [
+      "T42", 
+      "edible films"
+    ], 
+    [
+      "T43", 
+      "essential oils"
+    ], 
+    [
+      "T44", 
+      "1802 refrigerated poultry products"
+    ], 
+    [
+      "T45", 
+      "1781;1794 1802 refrigerated meat products"
+    ], 
+    [
+      "T46", 
+      "1781;1794 1802 fresh meat products"
+    ], 
+    [
+      "T47", 
+      "1802 fresh poultry products"
+    ], 
+    [
+      "T48", 
+      "1802 further processed poultry products"
+    ], 
+    [
+      "T49", 
+      "1802 further processed meat products"
+    ]
+  ], 
+  "BB-norm-8578217.a1": [
+    [
+      "T9", 
+      "duodenal"
+    ], 
+    [
+      "T10", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T11", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T12", 
+      "duodenal"
+    ], 
+    [
+      "T14", 
+      "duodenal"
+    ], 
+    [
+      "T15", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T17", 
+      "ulcer"
+    ], 
+    [
+      "T19", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T20", 
+      "duodenal"
+    ], 
+    [
+      "T22", 
+      "duodenal"
+    ], 
+    [
+      "T23", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T25", 
+      "duodenal"
+    ], 
+    [
+      "T26", 
+      "duodenal ulcer"
+    ], 
+    [
+      "T29", 
+      "patients with duodenal ulcer"
+    ], 
+    [
+      "T30", 
+      "duodenal"
+    ], 
+    [
+      "T31", 
+      "duodenal ulcer"
+    ]
+  ], 
+  "BB-norm-10941782.a1": [
+    [
+      "T4", 
+      "marine"
+    ], 
+    [
+      "T5", 
+      "marine invertebrates"
+    ], 
+    [
+      "T6", 
+      "Marine invertebrates"
+    ], 
+    [
+      "T7", 
+      "Marine"
+    ], 
+    [
+      "T8", 
+      "marine"
+    ], 
+    [
+      "T9", 
+      "marine invertebrate"
+    ], 
+    [
+      "T10", 
+      "bryostatin-producing bryozoan B. neritina"
+    ], 
+    [
+      "T13", 
+      "listhistid sponges"
+    ]
+  ], 
+  "BB-norm-9521139.a1": [
+    [
+      "T5", 
+      "Chilean cities"
+    ], 
+    [
+      "T6", 
+      "nasopharyngeal"
+    ], 
+    [
+      "T8", 
+      "mucosal"
+    ], 
+    [
+      "T10", 
+      "patients admitted to three large hospitals"
+    ], 
+    [
+      "T11", 
+      "large hospitals"
+    ], 
+    [
+      "T12", 
+      "children attending day care centers"
+    ], 
+    [
+      "T13", 
+      "day care centers"
+    ], 
+    [
+      "T14", 
+      "Chilean cities"
+    ], 
+    [
+      "T15", 
+      "cities"
+    ], 
+    [
+      "T16", 
+      "nasopharyngeal"
+    ], 
+    [
+      "T18", 
+      "cities"
+    ], 
+    [
+      "T19", 
+      "children 0 to 2 years of age"
+    ], 
+    [
+      "T21", 
+      "Chilean cities"
+    ], 
+    [
+      "T28", 
+      "nasopharyngeal"
+    ], 
+    [
+      "T30", 
+      "vaccine"
+    ]
+  ], 
+  "BB-norm-23895665.a1": [
+    [
+      "T6", 
+      "laboratory"
+    ], 
+    [
+      "T10", 
+      "laboratories"
+    ], 
+    [
+      "T12", 
+      "laboratory"
+    ], 
+    [
+      "T14", 
+      "sputum"
+    ], 
+    [
+      "T15", 
+      "liquid mycobacterial culture"
+    ], 
+    [
+      "T17", 
+      "laboratory"
+    ], 
+    [
+      "T19", 
+      "liquid culture"
+    ], 
+    [
+      "T20", 
+      "Laboratory"
+    ], 
+    [
+      "T22", 
+      "mycobacterial culture"
+    ], 
+    [
+      "T24", 
+      "laboratories"
+    ]
+  ], 
+  "BB-norm-23935486.a1": [
+    [
+      "T5", 
+      "Bacterial populations"
+    ], 
+    [
+      "T13", 
+      "bacterial population"
+    ], 
+    [
+      "T18", 
+      "biofilm"
+    ]
+  ], 
+  "BB-norm-F-24794620-011.a1": [
+    [
+      "T5", 
+      "rinds of old VB cheeses"
+    ], 
+    [
+      "T6", 
+      "old VB cheeses"
+    ], 
+    [
+      "T7", 
+      "cellars"
+    ], 
+    [
+      "T10", 
+      "cellars"
+    ], 
+    [
+      "T13", 
+      "Danish surface-ripened cheeses"
+    ], 
+    [
+      "T15", 
+      "Fontina cheese"
+    ], 
+    [
+      "T16", 
+      "Fontina cheese rinds"
+    ], 
+    [
+      "T17", 
+      "Brine"
+    ], 
+    [
+      "T18", 
+      "personnel"
+    ], 
+    [
+      "T19", 
+      "equipment"
+    ]
+  ], 
+  "BB-norm-21557059.a1": [
+    [
+      "T8", 
+      "humans"
+    ], 
+    [
+      "T10", 
+      "host cells"
+    ], 
+    [
+      "T15", 
+      "human"
+    ], 
+    [
+      "T16", 
+      "human pharyngeal cells"
+    ], 
+    [
+      "T17", 
+      "pharyngeal"
+    ]
+  ], 
+  "BB-norm-16506453.a1": [
+    [
+      "T3", 
+      "fleas"
+    ], 
+    [
+      "T4", 
+      "vectors of plague"
+    ], 
+    [
+      "T6", 
+      "species of fleas"
+    ], 
+    [
+      "T7", 
+      "potential vectors of Yersinia pestis"
+    ], 
+    [
+      "T9", 
+      "plague vectors"
+    ], 
+    [
+      "T10", 
+      "human"
+    ], 
+    [
+      "T11", 
+      "domestic animal"
+    ], 
+    [
+      "T12", 
+      "wildlife"
+    ], 
+    [
+      "T13", 
+      "plague vectors"
+    ], 
+    [
+      "T14", 
+      "flea Oropsylla montana (Baker)"
+    ], 
+    [
+      "T15", 
+      "vector species"
+    ], 
+    [
+      "T16", 
+      "fleas"
+    ], 
+    [
+      "T17", 
+      "flea"
+    ], 
+    [
+      "T18", 
+      "plague vectors"
+    ]
+  ], 
+  "BB-norm-21211789.a1": [
+    [
+      "T6", 
+      "periodontal"
+    ], 
+    [
+      "T8", 
+      "121 patients with chronic kidney disease"
+    ], 
+    [
+      "T9", 
+      "121 patients without chronic kidney disease"
+    ], 
+    [
+      "T10", 
+      "kidney"
+    ], 
+    [
+      "T11", 
+      "patients with chronic periodontitis"
+    ], 
+    [
+      "T12", 
+      "periodontal"
+    ], 
+    [
+      "T14", 
+      "patients with chronic kidney disease"
+    ], 
+    [
+      "T15", 
+      "kidney"
+    ], 
+    [
+      "T16", 
+      "individuals"
+    ], 
+    [
+      "T17", 
+      "patients with CP"
+    ], 
+    [
+      "T18", 
+      "control group"
+    ], 
+    [
+      "T19", 
+      "patients with CP and CKD"
+    ], 
+    [
+      "T20", 
+      "pre-dialysis group"
+    ], 
+    [
+      "T21", 
+      "patients with CP and CKD"
+    ], 
+    [
+      "T22", 
+      "renal"
+    ], 
+    [
+      "T23", 
+      "RRT group"
+    ], 
+    [
+      "T24", 
+      "subgingival plaque"
+    ], 
+    [
+      "T29", 
+      "patients"
+    ], 
+    [
+      "T30", 
+      "control subjects"
+    ], 
+    [
+      "T31", 
+      "patients with CKD"
+    ], 
+    [
+      "T35", 
+      "CKD patients"
+    ], 
+    [
+      "T36", 
+      "control group"
+    ], 
+    [
+      "T41", 
+      "patients with CKD"
+    ]
+  ], 
+  "BB-norm-F-24794620-015.a1": [
+    [
+      "T2", 
+      "samples of milk"
+    ], 
+    [
+      "T3", 
+      "cheese samples"
+    ], 
+    [
+      "T4", 
+      "cheese"
+    ], 
+    [
+      "T5", 
+      "cheese"
+    ], 
+    [
+      "T7", 
+      "young cheese"
+    ], 
+    [
+      "T8", 
+      "young cheese rinds of ripening cellar A1"
+    ], 
+    [
+      "T9", 
+      "ripening cellar"
+    ]
+  ], 
+  "BB-norm-F-15345452-003.a1": [
+    [
+      "T2", 
+      "dairy products"
+    ]
+  ], 
+  "BB-norm-20950772.a1": [
+    [
+      "T8", 
+      "nosocomial"
+    ], 
+    [
+      "T9", 
+      "patients"
+    ], 
+    [
+      "T11", 
+      "large district general hospital"
+    ], 
+    [
+      "T12", 
+      "patients"
+    ], 
+    [
+      "T13", 
+      "patients"
+    ], 
+    [
+      "T15", 
+      "patients"
+    ], 
+    [
+      "T16", 
+      "patients"
+    ], 
+    [
+      "T17", 
+      "patients"
+    ], 
+    [
+      "T18", 
+      "patients"
+    ], 
+    [
+      "T19", 
+      "patients"
+    ], 
+    [
+      "T20", 
+      "patients"
+    ], 
+    [
+      "T21", 
+      "patients"
+    ], 
+    [
+      "T22", 
+      "organ"
+    ]
+  ], 
+  "BB-norm-F-15345452-012.a1": [
+    [
+      "T2", 
+      "Morbier cheese"
+    ], 
+    [
+      "T5", 
+      "dairy industry"
+    ], 
+    [
+      "T7", 
+      "Leerdamer cheese"
+    ], 
+    [
+      "T8", 
+      "artificial medium"
+    ], 
+    [
+      "T11", 
+      "Epoisses cheese"
+    ], 
+    [
+      "T13", 
+      "dairy products"
+    ]
+  ], 
+  "BB-norm-23339910.a1": [
+    [
+      "T6", 
+      "Mosquito"
+    ], 
+    [
+      "T7", 
+      "Euphorbia hirta Linn"
+    ], 
+    [
+      "T8", 
+      "Euphorbiaceae"
+    ], 
+    [
+      "T10", 
+      "Anopheles stephensi Liston"
+    ], 
+    [
+      "T11", 
+      "Culicidae"
+    ], 
+    [
+      "T12", 
+      "Euphorbia hirta (E. hirta) leaf"
+    ], 
+    [
+      "T13", 
+      "Euphorbia hirta (E. hirta) leaf extract"
+    ], 
+    [
+      "T14", 
+      "Euphorbia hirta"
+    ], 
+    [
+      "T15", 
+      "E. hirta"
+    ], 
+    [
+      "T18", 
+      "malarial vector"
+    ], 
+    [
+      "T19", 
+      "Anopheles stephensi"
+    ], 
+    [
+      "T20", 
+      "An. stephensi"
+    ], 
+    [
+      "T21", 
+      "An. stephensi"
+    ], 
+    [
+      "T22", 
+      "laboratory"
+    ], 
+    [
+      "T23", 
+      "E. hirta leaf extract"
+    ], 
+    [
+      "T24", 
+      "E. hirta"
+    ], 
+    [
+      "T25", 
+      "E. hirta leaf"
+    ], 
+    [
+      "T26", 
+      "plant"
+    ], 
+    [
+      "T27", 
+      "plant extract"
+    ], 
+    [
+      "T28", 
+      "larval"
+    ], 
+    [
+      "T29", 
+      "methanol extract of E. hirta"
+    ], 
+    [
+      "T30", 
+      "E. hirta"
+    ], 
+    [
+      "T31", 
+      "larvae"
+    ], 
+    [
+      "T32", 
+      "pupae"
+    ], 
+    [
+      "T34", 
+      "larvae"
+    ], 
+    [
+      "T35", 
+      "pupae"
+    ], 
+    [
+      "T36", 
+      "methanol leaf extracts of E. hirta"
+    ], 
+    [
+      "T37", 
+      "leaf"
+    ], 
+    [
+      "T38", 
+      "E. hirta"
+    ], 
+    [
+      "T40", 
+      "malarial vector"
+    ], 
+    [
+      "T41", 
+      "An. stephensi"
+    ], 
+    [
+      "T42", 
+      "mosquito"
+    ], 
+    [
+      "T43", 
+      "plant crude extract"
+    ], 
+    [
+      "T44", 
+      "plant"
+    ], 
+    [
+      "T45", 
+      "An. stephensi mosquitoes"
+    ]
+  ]
+}
