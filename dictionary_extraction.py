@@ -23,8 +23,10 @@ for line in input.readlines():
                 else:
                     value = re.search('(?<=\")(.*)(?=\")', line).group(0)
 
-                if key not in myDict[current_id]:
+                if key != "name" and key not in myDict[current_id]:
                     myDict[current_id][key]=[value]
-                else:
+                elif key != "name":
                     myDict[current_id][key].append(value)
+                else:
+                    myDict[current_id][key]=value                   
 json.dump(myDict, output,indent=4, sort_keys=True)
