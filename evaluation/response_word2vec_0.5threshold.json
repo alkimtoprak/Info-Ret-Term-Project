@@ -1,0 +1,3803 @@
+{
+  "evaluation": {
+    "submission-id": 17587,
+    "global-evaluations": [
+      {
+        "name": "Reference pairing",
+        "scorings": [
+          {
+            "name": "Main scoring",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.32466477280508976
+              }
+            ]
+          },
+          {
+            "name": "Habitats",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.6243143909842136
+              }
+            ]
+          },
+          {
+            "name": "Habitats (exact)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.4436533957845433
+              }
+            ]
+          },
+          {
+            "name": "Habitats (new in dev)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.4053167386392239
+              }
+            ]
+          },
+          {
+            "name": "Habitats (new in test)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "Habitats (only unique form-normalization)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.5810618205958541
+              }
+            ]
+          },
+          {
+            "name": "Phenotypes",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "Phenotypes (exact)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "Phenotypes (new in dev)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "Phenotypes (new in test)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": null
+              }
+            ]
+          },
+          {
+            "name": "Phenotypes (only unique form-normalization)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "Habitats and Phenotypes",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.49394523800307427
+              }
+            ]
+          },
+          {
+            "name": "Habitats and Phenotypes (exact)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "Habitats and Phenotypes (new in dev)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.3498662401934669
+              }
+            ]
+          },
+          {
+            "name": "Habitats and Phenotypes (new in test)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "Habitats and Phenotypes (only unique form-normalization)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.45038634565835856
+              }
+            ]
+          },
+          {
+            "name": "Microorganisms",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              }
+            ]
+          },
+          {
+            "name": "Multiple normalizations",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.45897390214016126
+              },
+              {
+                "name": "References",
+                "value": 64
+              }
+            ]
+          },
+          {
+            "name": "Multiple normalizations (Microorganism)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0
+              },
+              {
+                "name": "References",
+                "value": 1
+              }
+            ]
+          },
+          {
+            "name": "Multiple normalizations (Habitats)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": 0.4662592021741321
+              },
+              {
+                "name": "References",
+                "value": 63
+              }
+            ]
+          },
+          {
+            "name": "Multiple normalizations (Phenotypes)",
+            "measures": [
+              {
+                "name": "Precision",
+                "value": null
+              },
+              {
+                "name": "References",
+                "value": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "messages": [
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 26,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 34,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-10496597.a1",
+      "lineno": 35,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-11989773.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-11989773.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-11989773.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-11989773.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-11989773.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-11989773.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-11989773.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 33,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 36,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-12109661.a1",
+      "lineno": 40,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1214327.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1214327.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-1356998.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-14633026.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 31,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15293611.a1",
+      "lineno": 32,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-15618837.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16273411.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16273411.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16273411.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 27,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 31,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 32,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 33,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 34,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 35,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 36,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 51,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 52,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 53,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 54,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 55,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16458564.a1",
+      "lineno": 56,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16514151.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16514151.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16514151.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16514151.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-16514151.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 27,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 30,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 36,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 41,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 42,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 43,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 44,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 45,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 54,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 55,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 57,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 64,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 65,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18094887.a1",
+      "lineno": 66,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18694716.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18694716.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18694716.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 26,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 30,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 33,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 34,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 35,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 37,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 40,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 41,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-18789156.a1",
+      "lineno": 43,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19004249.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19004249.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19004249.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19004249.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 27,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 32,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 34,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 36,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 37,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 39,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 42,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 45,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 48,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 50,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 51,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 53,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19339076.a1",
+      "lineno": 55,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 26,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 30,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 34,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 37,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19552770.a1",
+      "lineno": 39,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-19621381.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 27,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 37,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 38,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 43,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 44,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 47,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 48,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 51,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 52,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 53,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 57,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 58,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20174624.a1",
+      "lineno": 60,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20580604.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20580604.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20580604.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20580604.a1",
+      "lineno": 31,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20580604.a1",
+      "lineno": 34,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20580604.a1",
+      "lineno": 39,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-20580604.a1",
+      "lineno": 43,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21270066.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21270066.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21270066.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21270066.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21270066.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21270066.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21543877.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21543877.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21543877.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21695078.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21695078.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21695078.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21695078.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21695078.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21695078.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21695078.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-21894542.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-23902156.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-23902156.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-23902156.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-23902156.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-23902156.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-23902156.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-23902156.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 26,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25114119.a1",
+      "lineno": 30,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-25204345.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-351567.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-351567.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-351567.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-351567.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-351567.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-351567.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-351567.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-3544198.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-3544198.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-3544198.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-3544198.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-460951.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-460951.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-460951.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-460951.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-460951.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-460951.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-460951.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-460951.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-47483.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-5526468.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-8559802.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-8559802.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-8559802.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-8559802.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-8559802.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-8559802.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-8559802.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-8559802.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 26,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 30,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9521147.a1",
+      "lineno": 31,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 26,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 27,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 30,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 31,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 32,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 33,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 34,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 37,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 38,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9553794.a1",
+      "lineno": 39,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 31,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-9745160.a1",
+      "lineno": 34,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-000.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-001.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-001.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-001.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-001.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-002.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-002.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-002.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-002.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-003.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-003.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-003.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-003.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-003.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-004.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-005.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-005.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-005.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-005.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-005.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-005.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-005.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-006.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-006.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-006.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-006.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-006.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-006.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-006.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-006.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-007.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-14624315-007.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 18,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 20,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 21,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-000.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-001.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-002.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 19,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-003.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 26,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-004.a1",
+      "lineno": 30,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-005.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-006.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-006.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-006.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-006.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-007.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-007.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-007.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-007.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-007.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-008.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-008.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-008.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-008.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-008.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-008.a1",
+      "lineno": 11,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-009.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-010.a1",
+      "lineno": 17,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 16,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 22,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 23,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 24,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 25,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 28,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 29,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 30,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-011.a1",
+      "lineno": 35,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-012.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-012.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-012.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-012.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-013.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-013.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-013.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-013.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-014.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-015.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-20167385-015.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-000.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-000.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-000.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-000.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-000.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-000.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-000.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-001.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-001.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-001.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-001.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-001.a1",
+      "lineno": 6,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-001.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-002.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-003.a1",
+      "lineno": 2,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-003.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-003.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-003.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-003.a1",
+      "lineno": 8,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-003.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-003.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-004.a1",
+      "lineno": 1,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from OntoBiotope, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-004.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 3,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 4,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 5,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 7,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 9,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 10,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 12,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 13,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 14,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    },
+    {
+      "source": "org/bionlpst/data/BioNLP-OST-2019_BB-norm_dev.zip/BioNLP-OST-2019_BB-norm_dev/BB-norm-F-25036636-005.a1",
+      "lineno": 15,
+      "level": "SERIOUS",
+      "body": "expected at least 1 references from NCBI_Taxonomy, got 0"
+    }
+  ],
+  "highest-message-level": "SERIOUS",
+  "success": false
+}
