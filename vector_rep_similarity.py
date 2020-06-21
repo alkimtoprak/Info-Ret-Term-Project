@@ -129,4 +129,4 @@ def calculate_cosine_similarity(token_dict,obt_wordvec,dataset):
                 count += 1
         f.close()
 
-calculate_cosine_similarity(train_token_dict,is_a_adjusted_wordvec,"train")
+calculate_cosine_similarity(dev_token_dict,is_a_adjusted_wordvec,"dev")
