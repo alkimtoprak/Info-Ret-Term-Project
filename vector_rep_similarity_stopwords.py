@@ -94,7 +94,7 @@ def adjust_obt(mean_obt_wordvec, obt_dict, obt_wordvec):
 is_a_adjusted_wordvec = adjust_obt(mean_obt_wordvec,i_obt_dict, obt_wordvec)
 
 def calculate_cosine_similarity(token_dict,obt_wordvec,dataset,obt_dict):
-    output_path = "output_word2vec_jaccard0.7_" + dataset
+    output_path = "output_word2vec_jaccard0.6_" + dataset
     os.mkdir(output_path)
     for file_name, list in token_dict.items():  
         last_vec = np.array([])
@@ -121,12 +121,12 @@ def calculate_cosine_similarity(token_dict,obt_wordvec,dataset,obt_dict):
             matching_obt_id = 0
 
             for obt_id, info in obt_dict.items():
-                for name in info["name"]:
-                    words = set(name.split()).difference(stopwords)
-                    similarity = len(anno_words.intersection(words))/len(anno_words.union(words))
-                    if similarity > max_similarity:
-                        max_similarity = similarity
-                        matching_obt_id = obt_id
+                name = info["name"]
+                words = set(name.split()).difference(stopwords)
+                similarity = len(anno_words.intersection(words))/len(anno_words.union(words))
+                if similarity > max_similarity:
+                    max_similarity = similarity
+                    matching_obt_id = obt_id
                 if "synonym" in info:
                     for name in info["synonym"]:
                         words = set(name.split()).difference(stopwords)
@@ -134,7 +134,8 @@ def calculate_cosine_similarity(token_dict,obt_wordvec,dataset,obt_dict):
                         if similarity > max_similarity:
                             max_similarity = similarity
                             matching_obt_id = obt_id
-            if max_similarity <= 0.7:
+            
+            if max_similarity <= 0.6:
                 max_similarity = 0
                 matching_obt_id = 0
                 for obt_id, wordvec_list in obt_wordvec.items():
