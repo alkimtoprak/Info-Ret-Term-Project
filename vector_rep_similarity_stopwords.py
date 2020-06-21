@@ -93,8 +93,8 @@ def adjust_obt(mean_obt_wordvec, obt_dict, obt_wordvec):
 
 is_a_adjusted_wordvec = adjust_obt(mean_obt_wordvec,i_obt_dict, obt_wordvec)
 
-def calculate_cosine_similarity(token_dict,obt_wordvec,dataset):
-    output_path = "output_word2vec_stopwords_" + dataset
+def calculate_cosine_similarity(token_dict,obt_wordvec,dataset,obt_dict):
+    output_path = "output_word2vec_jaccard0.7_" + dataset
     os.mkdir(output_path)
     for file_name, list in token_dict.items():  
         last_vec = np.array([])
@@ -103,7 +103,8 @@ def calculate_cosine_similarity(token_dict,obt_wordvec,dataset):
         filepath = os.path.join(output_path, doc_name)
         f= open(filepath,"w+")
         for tuple in list:
-            values = [model[x] for x in tuple[1].split() if x in model]
+            anno_words = set(tuple[1].split()).difference(stopwords)
+            values = [model[x] for x in tuple[1].split() if x in model and x not in stopwords]
             if len(values) == 0:
                 continue
             mean = np.array(values).mean(axis=0)
@@ -119,19 +120,36 @@ def calculate_cosine_similarity(token_dict,obt_wordvec,dataset):
             max_similarity = 0
             matching_obt_id = 0
 
-            for obt_id, wordvec_list in obt_wordvec.items():
-                if len(wordvec_list) == 0:
-                    continue
-                # for mean_term in wordvec_list: 
-                #     cosine_sim = 1 - spatial.distance.cosine(mean, mean_term)
-                similarity = np.max(np.array([1 - spatial.distance.cosine(mean, mean_term) for mean_term in wordvec_list]),axis=0)
-                if similarity > max_similarity:
-                    max_similarity = similarity
-                    matching_obt_id = obt_id
+            for obt_id, info in obt_dict.items():
+                for name in info["name"]:
+                    words = set(name.split()).difference(stopwords)
+                    similarity = len(anno_words.intersection(words))/len(anno_words.union(words))
+                    if similarity > max_similarity:
+                        max_similarity = similarity
+                        matching_obt_id = obt_id
+                if "synonym" in info:
+                    for name in info["synonym"]:
+                        words = set(name.split()).difference(stopwords)
+                        similarity = len(anno_words.intersection(words))/len(anno_words.union(words))
+                        if similarity > max_similarity:
+                            max_similarity = similarity
+                            matching_obt_id = obt_id
+            if max_similarity <= 0.7:
+                max_similarity = 0
+                matching_obt_id = 0
+                for obt_id, wordvec_list in obt_wordvec.items():
+                    if len(wordvec_list) == 0:
+                        continue
+                    # for mean_term in wordvec_list: 
+                    #     cosine_sim = 1 - spatial.distance.cosine(mean, mean_term)
+                    similarity = np.max(np.array([1 - spatial.distance.cosine(mean, mean_term) for mean_term in wordvec_list]),axis=0)
+                    if similarity > max_similarity:
+                        max_similarity = similarity
+                        matching_obt_id = obt_id
             #last_vec = np.array([x for x in obt_wordvec[matching_obt_id]]).mean(axis=0)
             if matching_obt_id != 0:
                 f.write("N%d\tOntoBiotope Annotation:%s Referent:%s\n" % (count, tuple[0], matching_obt_id))
                 count += 1
         f.close()
 
-calculate_cosine_similarity(test_token_dict,is_a_adjusted_wordvec,"test")
+calculate_cosine_similarity(test_token_dict,is_a_adjusted_wordvec,"test", i_obt_dict)
