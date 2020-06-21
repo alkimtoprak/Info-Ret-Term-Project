@@ -88,13 +88,12 @@ def adjust_obt(mean_obt_wordvec, obt_dict, obt_wordvec):
                 child_adjusted_wordvec[obt_id_child].append(np.add(0.85 * wordvec, 0.15 * is_a_vector))
         else:
             child_adjusted_wordvec[obt_id] = parent_adjusted_wordvec[obt_id]
-    #print(adjusted_wordvec["OBT:000129"])
     return child_adjusted_wordvec
 
 is_a_adjusted_wordvec = adjust_obt(mean_obt_wordvec,i_obt_dict, obt_wordvec)
 
 def calculate_cosine_similarity(token_dict,obt_wordvec,dataset,obt_dict):
-    output_path = "output_word2vec_jaccard0.6_" + dataset
+    output_path = "output_word2vec_jaccard0.8_" + dataset
     os.mkdir(output_path)
     for file_name, list in token_dict.items():  
         last_vec = np.array([])
@@ -112,11 +111,8 @@ def calculate_cosine_similarity(token_dict,obt_wordvec,dataset,obt_dict):
                 last_vec = mean
             else:
                 last_vec = np.vstack([last_vec, mean])
-            #if last_vec.size != 0:
-                #mean_temp = mean
             history = last_vec.mean(axis=0)
             mean = np.add(0.95 * mean, 0.05 * history)
-                #last_vec = np.add(0.5 * mean_temp, 0.5 * last_vec)
             max_similarity = 0
             matching_obt_id = 0
 
@@ -135,19 +131,16 @@ def calculate_cosine_similarity(token_dict,obt_wordvec,dataset,obt_dict):
                             max_similarity = similarity
                             matching_obt_id = obt_id
             
-            if max_similarity <= 0.6:
+            if max_similarity <= 0.8:
                 max_similarity = 0
                 matching_obt_id = 0
                 for obt_id, wordvec_list in obt_wordvec.items():
                     if len(wordvec_list) == 0:
                         continue
-                    # for mean_term in wordvec_list: 
-                    #     cosine_sim = 1 - spatial.distance.cosine(mean, mean_term)
                     similarity = np.max(np.array([1 - spatial.distance.cosine(mean, mean_term) for mean_term in wordvec_list]),axis=0)
                     if similarity > max_similarity:
                         max_similarity = similarity
                         matching_obt_id = obt_id
-            #last_vec = np.array([x for x in obt_wordvec[matching_obt_id]]).mean(axis=0)
             if matching_obt_id != 0:
                 f.write("N%d\tOntoBiotope Annotation:%s Referent:%s\n" % (count, tuple[0], matching_obt_id))
                 count += 1
